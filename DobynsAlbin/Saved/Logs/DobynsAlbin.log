@@ -15415,3 +15415,805 @@ Make sure 'ThirdPersonGameMode_C' has been compiled for  Respawn Player
 [2022.11.24-23.19.56:345][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.11.24-23.19.56:347][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
 [2022.11.24-23.19.56:379][693]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2022.11.24-23.20.33:987][ 63]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-23.20.34:089][ 64]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.11.24-23.20.34:989][136]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.20.34:995][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.20.34:995][136]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:20:34 AM)
+[2022.11.24-23.20.35:016][136]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.20.35:018][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001904s)
+[2022.11.24-23.20.35:018][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.001987s)
+[2022.11.24-23.20.35:018][136]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.20.35:018][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.20.35:018][136]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.20.35:018][136]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2022.11.24-23.20.35:054][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.24-23.20.35:057][136]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2022.11.24-23.20.35:057][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.20.35:057][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.20.35:057][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.20.35:057][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.20.35:057][136]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.20.35:057][136]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.20.35:057][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.20.35:057][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.20.35:057][136]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.20.35:057][136]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.20.35:057][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.20.35:059][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.20.35:084][136]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.20.35:084][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.20.35:085][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.20.35:085][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.20.35:085][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2022.11.24-23.20.35:085][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2022.11.24-23.20.35:086][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2022.11.24-23.20.35:087][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2022.11.24-23.20.35:087][136]LogInit: FAudioDevice initialized.
+[2022.11.24-23.20.35:087][136]LogAudio: Display: Audio Device (ID: 86) registered with world 'Level1'.
+[2022.11.24-23.20.35:098][136]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.20.35:099][136]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.20.35
+[2022.11.24-23.20.35:099][136]LogWorld: Bringing up level for play took: 0.000570
+[2022.11.24-23.20.35:100][136]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2022.11.24-23.20.35:102][136]PIE: Server logged in
+[2022.11.24-23.20.35:102][136]PIE: Play in editor total start time 0.107 seconds.
+[2022.11.24-23.20.35:112][136]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.20.52:737][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.20.52:737][239]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.20.52:737][239]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.20.52:737][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.20.52:751][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.20.52:755][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.20.52:790][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.20.52:790][239]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.20.52:790][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2022.11.24-23.20.52:792][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2022.11.24-23.20.52:827][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.20.52:829][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.24-23.20.52:884][240]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2022.11.24-23.20.52:907][240]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.11.24-23.20.52:963][240]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-23.21.42:608][893]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.21.42:613][893]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.24-23.21.42:615][893]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2022.11.24-23.21.42:621][893]LogBlueprint: Warning: [AssetLog] C:\Users\jdobyns\OneDrive - Colostate\Documents\Unreal Projects\AlbinR_DobynsJ\DobynsAlbin\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2022.11.24-23.21.42:777][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.24-23.21.42:783][893]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2022.11.24-23.21.42:783][893]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:21:42 AM)
+[2022.11.24-23.21.42:783][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.21.42:785][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001691s)
+[2022.11.24-23.21.42:785][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.001735s)
+[2022.11.24-23.21.42:785][893]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.21.42:785][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.21.42:785][893]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.21.42:786][893]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2022.11.24-23.21.42:822][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.24-23.21.42:823][893]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2022.11.24-23.21.42:823][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.21.42:823][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.21.42:823][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.21.42:823][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.21.42:823][893]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.21.42:823][893]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.21.42:823][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.21.42:823][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.21.42:823][893]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.21.42:824][893]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.21.42:824][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.21.42:825][893]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.21.42:850][893]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.21.42:850][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.21.42:850][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.21.42:850][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.21.42:851][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2022.11.24-23.21.42:851][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2022.11.24-23.21.42:852][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2022.11.24-23.21.42:852][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2022.11.24-23.21.42:852][893]LogInit: FAudioDevice initialized.
+[2022.11.24-23.21.42:852][893]LogAudio: Display: Audio Device (ID: 87) registered with world 'Level1'.
+[2022.11.24-23.21.42:860][893]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.21.42:860][893]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.21.42
+[2022.11.24-23.21.42:860][893]LogWorld: Bringing up level for play took: 0.000566
+[2022.11.24-23.21.42:862][893]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2022.11.24-23.21.42:863][893]PIE: Server logged in
+[2022.11.24-23.21.42:864][893]PIE: Play in editor total start time 0.251 seconds.
+[2022.11.24-23.21.42:870][893]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.22.57:156][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.22.57:156][  5]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.22.57:157][  5]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.22.57:157][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.22.57:206][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.22.57:210][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.22.57:247][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.22.57:247][  5]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.22.57:247][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2022.11.24-23.22.57:248][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2022.11.24-23.22.57:276][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.24-23.22.57:395][  6]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2022.11.24-23.22.57:439][  6]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.11.24-23.22.57:477][  6]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-23.23.51:701][860]LogStaticMesh: Display: Building static mesh SM_PROP_wall_wood_post_02...
+[2022.11.24-23.23.51:701][860]LogStaticMesh: Built static mesh [0.00s] /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_post_02.SM_PROP_wall_wood_post_02
+[2022.11.24-23.23.51:935][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_post_02.SM_PROP_wall_wood_post_02
+[2022.11.24-23.23.51:935][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_post_02.SM_PROP_wall_wood_post_02
+[2022.11.24-23.23.51:935][866]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_post_02.SM_PROP_wall_wood_post_02 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_5
+[2022.11.24-23.23.55:065][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_post_02.SM_PROP_wall_wood_post_02
+[2022.11.24-23.23.55:065][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_post_02.SM_PROP_wall_wood_post_02
+[2022.11.24-23.23.55:066][ 85]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_post_02.SM_PROP_wall_wood_post_02 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_6
+[2022.11.24-23.24.26:592][539]Cmd: DUPLICATE
+[2022.11.24-23.24.26:592][539]Cmd: ACTOR DUPLICATE
+[2022.11.24-23.24.38:384][537]Cmd: DUPLICATE
+[2022.11.24-23.24.38:384][537]Cmd: ACTOR DUPLICATE
+[2022.11.24-23.24.59:496][185]Cmd: DUPLICATE
+[2022.11.24-23.24.59:496][185]Cmd: ACTOR DUPLICATE
+[2022.11.24-23.25.04:901][639]Cmd: DUPLICATE
+[2022.11.24-23.25.04:901][639]Cmd: ACTOR DUPLICATE
+[2022.11.24-23.25.10:799][140]Cmd: DUPLICATE
+[2022.11.24-23.25.10:799][140]Cmd: ACTOR DUPLICATE
+[2022.11.24-23.25.19:437][869]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.25.19:443][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.25.19:443][869]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:25:19 AM)
+[2022.11.24-23.25.19:475][869]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.25.19:478][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003154s)
+[2022.11.24-23.25.19:478][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003245s)
+[2022.11.24-23.25.19:478][869]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.25.19:478][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.25.19:479][869]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.25.19:479][869]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2022.11.24-23.25.19:517][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.24-23.25.19:523][869]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2022.11.24-23.25.19:523][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.25.19:523][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.25.19:523][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.25.19:523][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.25.19:523][869]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.25.19:523][869]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.25.19:523][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.25.19:523][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.25.19:524][869]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.25.19:524][869]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.25.19:524][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.25.19:525][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.25.19:551][869]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.25.19:551][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.25.19:551][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.25.19:551][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.25.19:552][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2022.11.24-23.25.19:552][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2022.11.24-23.25.19:553][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2022.11.24-23.25.19:553][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2022.11.24-23.25.19:553][869]LogInit: FAudioDevice initialized.
+[2022.11.24-23.25.19:553][869]LogAudio: Display: Audio Device (ID: 88) registered with world 'Level1'.
+[2022.11.24-23.25.19:565][869]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.25.19:566][869]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.25.19
+[2022.11.24-23.25.19:566][869]LogWorld: Bringing up level for play took: 0.000833
+[2022.11.24-23.25.19:568][869]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2022.11.24-23.25.19:569][869]PIE: Server logged in
+[2022.11.24-23.25.19:570][869]PIE: Play in editor total start time 0.127 seconds.
+[2022.11.24-23.25.19:580][869]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.25.22:816][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.25.22:816][165]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.25.22:816][165]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.25.22:816][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.25.22:868][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.25.22:871][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.25.22:906][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.25.22:906][165]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.25.22:906][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2022.11.24-23.25.22:908][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2022.11.24-23.25.22:914][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.25.22:916][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.24-23.25.23:002][166]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2022.11.24-23.25.24:809][304]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-23.25.24:830][305]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.11.24-23.25.30:398][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.25.30:403][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.25.30:403][709]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:25:30 AM)
+[2022.11.24-23.25.30:404][709]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.25.30:406][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002329s)
+[2022.11.24-23.25.30:406][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002391s)
+[2022.11.24-23.25.30:406][709]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.25.30:406][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.25.30:406][709]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.25.30:407][709]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2022.11.24-23.25.30:444][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.24-23.25.30:448][709]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2022.11.24-23.25.30:448][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.25.30:448][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.25.30:448][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.25.30:448][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.25.30:448][709]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.25.30:448][709]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.25.30:448][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.25.30:448][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.25.30:449][709]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.25.30:449][709]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.25.30:449][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.25.30:450][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.25.30:475][709]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.25.30:476][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.25.30:476][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.25.30:476][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.25.30:476][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2022.11.24-23.25.30:476][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2022.11.24-23.25.30:477][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2022.11.24-23.25.30:477][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2022.11.24-23.25.30:477][709]LogInit: FAudioDevice initialized.
+[2022.11.24-23.25.30:477][709]LogAudio: Display: Audio Device (ID: 89) registered with world 'Level1'.
+[2022.11.24-23.25.30:489][709]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.25.30:490][709]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.25.30
+[2022.11.24-23.25.30:490][709]LogWorld: Bringing up level for play took: 0.000820
+[2022.11.24-23.25.30:492][709]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2022.11.24-23.25.30:493][709]PIE: Server logged in
+[2022.11.24-23.25.30:494][709]PIE: Play in editor total start time 0.09 seconds.
+[2022.11.24-23.25.30:504][709]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.25.37:775][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.25.37:776][379]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.25.37:776][379]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.25.37:776][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.25.37:829][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.25.37:833][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.25.37:868][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.25.37:868][379]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.25.37:868][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2022.11.24-23.25.37:869][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2022.11.24-23.25.37:887][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.24-23.25.38:007][380]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2022.11.24-23.25.38:033][380]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.11.24-23.25.38:067][380]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-23.25.59:152][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_foundation_wood_05.SM_PROP_foundation_wood_05
+[2022.11.24-23.25.59:152][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_foundation_wood_05.SM_PROP_foundation_wood_05
+[2022.11.24-23.25.59:152][749]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_foundation_wood_05.SM_PROP_foundation_wood_05 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_18
+[2022.11.24-23.26.04:503][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_foundation_wood_05.SM_PROP_foundation_wood_05
+[2022.11.24-23.26.04:503][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_foundation_wood_05.SM_PROP_foundation_wood_05
+[2022.11.24-23.26.04:504][117]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_foundation_wood_05.SM_PROP_foundation_wood_05 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_19
+[2022.11.24-23.26.12:485][711]Cmd: TRANSACTION UNDO
+[2022.11.24-23.26.12:485][711]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.24-23.26.14:158][803]Cmd: TRANSACTION UNDO
+[2022.11.24-23.26.14:158][803]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.24-23.26.22:455][443]Cmd: DELETE
+[2022.11.24-23.26.22:455][443]Cmd: ACTOR DELETE
+[2022.11.24-23.26.22:458][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.24-23.26.22:494][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.24-23.26.22:500][443]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.11.24-23.26.48:076][462]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.26.48:081][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.26.48:081][462]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:26:48 AM)
+[2022.11.24-23.26.48:115][462]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.26.48:118][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002978s)
+[2022.11.24-23.26.48:118][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003080s)
+[2022.11.24-23.26.48:118][462]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.26.48:119][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.26.48:119][462]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.26.48:119][462]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2022.11.24-23.26.48:156][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.24-23.26.48:159][462]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2022.11.24-23.26.48:159][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.26.48:159][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.26.48:159][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.26.48:159][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.26.48:159][462]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.26.48:159][462]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.26.48:159][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.26.48:159][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.26.48:159][462]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.26.48:159][462]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.26.48:159][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.26.48:161][462]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.26.48:186][462]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.26.48:186][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.26.48:186][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.26.48:187][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.26.48:187][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2022.11.24-23.26.48:187][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2022.11.24-23.26.48:188][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2022.11.24-23.26.48:188][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2022.11.24-23.26.48:188][462]LogInit: FAudioDevice initialized.
+[2022.11.24-23.26.48:188][462]LogAudio: Display: Audio Device (ID: 90) registered with world 'Level1'.
+[2022.11.24-23.26.48:199][462]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.26.48:200][462]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.26.48
+[2022.11.24-23.26.48:200][462]LogWorld: Bringing up level for play took: 0.000814
+[2022.11.24-23.26.48:201][462]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2022.11.24-23.26.48:203][462]PIE: Server logged in
+[2022.11.24-23.26.48:204][462]PIE: Play in editor total start time 0.123 seconds.
+[2022.11.24-23.26.48:214][462]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.26.58:425][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.26.58:426][408]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.26.58:426][408]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.26.58:426][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.26.58:477][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.26.58:481][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.26.58:517][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.26.58:517][408]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.26.58:517][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2022.11.24-23.26.58:518][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2022.11.24-23.26.58:549][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.26.58:551][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.24-23.26.58:665][409]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2022.11.24-23.27.08:209][ 61]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-23.27.08:243][ 62]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.11.24-23.27.09:642][167]Cmd: DELETE
+[2022.11.24-23.27.09:642][167]Cmd: ACTOR DELETE
+[2022.11.24-23.27.09:644][167]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.24-23.27.09:680][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.24-23.27.09:684][167]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.11.24-23.27.41:931][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_walkway_wood.SM_PROP_walkway_wood
+[2022.11.24-23.27.41:931][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_walkway_wood.SM_PROP_walkway_wood
+[2022.11.24-23.27.41:932][692]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_walkway_wood.SM_PROP_walkway_wood as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_20
+[2022.11.24-23.27.42:907][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_walkway_wood.SM_PROP_walkway_wood
+[2022.11.24-23.27.42:907][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_walkway_wood.SM_PROP_walkway_wood
+[2022.11.24-23.27.42:907][778]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_walkway_wood.SM_PROP_walkway_wood as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_21
+[2022.11.24-23.28.02:387][391]Cmd: DUPLICATE
+[2022.11.24-23.28.02:387][391]Cmd: ACTOR DUPLICATE
+[2022.11.24-23.28.08:242][872]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.28.08:247][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.28.08:247][872]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:28:08 AM)
+[2022.11.24-23.28.08:285][872]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.28.08:288][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003108s)
+[2022.11.24-23.28.08:288][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003202s)
+[2022.11.24-23.28.08:288][872]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.28.08:288][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.28.08:288][872]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.28.08:289][872]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2022.11.24-23.28.08:328][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.24-23.28.08:333][872]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2022.11.24-23.28.08:333][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.28.08:333][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.28.08:333][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.28.08:333][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.28.08:333][872]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.28.08:333][872]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.28.08:333][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.28.08:333][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.28.08:333][872]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.28.08:333][872]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.28.08:333][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.28.08:335][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.28.08:360][872]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.28.08:360][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.28.08:360][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.28.08:360][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.28.08:361][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2022.11.24-23.28.08:361][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2022.11.24-23.28.08:362][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2022.11.24-23.28.08:362][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2022.11.24-23.28.08:362][872]LogInit: FAudioDevice initialized.
+[2022.11.24-23.28.08:362][872]LogAudio: Display: Audio Device (ID: 91) registered with world 'Level1'.
+[2022.11.24-23.28.08:370][872]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.28.08:371][872]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.28.08
+[2022.11.24-23.28.08:371][872]LogWorld: Bringing up level for play took: 0.000819
+[2022.11.24-23.28.08:372][872]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2022.11.24-23.28.08:374][872]PIE: Server logged in
+[2022.11.24-23.28.08:375][872]PIE: Play in editor total start time 0.127 seconds.
+[2022.11.24-23.28.08:384][872]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.28.32:595][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.28.32:596][122]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.28.32:596][122]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.28.32:596][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.28.32:644][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.28.32:648][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.28.32:685][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.28.32:685][122]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.28.32:685][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2022.11.24-23.28.32:686][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2022.11.24-23.28.32:691][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.28.32:693][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.24-23.28.32:794][123]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2022.11.24-23.28.46:334][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_watchtower_wood_01.SM_PROP_watchtower_wood_01
+[2022.11.24-23.28.46:334][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_watchtower_wood_01.SM_PROP_watchtower_wood_01
+[2022.11.24-23.28.46:334][ 71]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_watchtower_wood_01.SM_PROP_watchtower_wood_01 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_23
+[2022.11.24-23.28.47:899][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_watchtower_wood_01.SM_PROP_watchtower_wood_01
+[2022.11.24-23.28.47:899][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_watchtower_wood_01.SM_PROP_watchtower_wood_01
+[2022.11.24-23.28.47:900][190]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_watchtower_wood_01.SM_PROP_watchtower_wood_01 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_24
+[2022.11.24-23.29.05:237][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood.SM_PROP_wall_wood
+[2022.11.24-23.29.05:237][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood.SM_PROP_wall_wood
+[2022.11.24-23.29.05:237][560]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood.SM_PROP_wall_wood as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_25
+[2022.11.24-23.29.06:126][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood.SM_PROP_wall_wood
+[2022.11.24-23.29.06:126][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood.SM_PROP_wall_wood
+[2022.11.24-23.29.06:127][626]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood.SM_PROP_wall_wood as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_26
+[2022.11.24-23.29.26:129][194]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.29.26:134][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.29.26:134][194]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:29:26 AM)
+[2022.11.24-23.29.26:174][194]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.29.26:180][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005700s)
+[2022.11.24-23.29.26:180][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005843s)
+[2022.11.24-23.29.26:180][194]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.29.26:180][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.29.26:181][194]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.29.26:181][194]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2022.11.24-23.29.26:218][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.24-23.29.26:222][194]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2022.11.24-23.29.26:222][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.29.26:222][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.29.26:222][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.29.26:222][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.29.26:222][194]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.29.26:222][194]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.29.26:222][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.29.26:222][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.29.26:223][194]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.29.26:223][194]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.29.26:223][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.29.26:225][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.29.26:250][194]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.29.26:251][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.29.26:251][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.29.26:251][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.29.26:251][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2022.11.24-23.29.26:251][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2022.11.24-23.29.26:252][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2022.11.24-23.29.26:252][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2022.11.24-23.29.26:252][194]LogInit: FAudioDevice initialized.
+[2022.11.24-23.29.26:252][194]LogAudio: Display: Audio Device (ID: 92) registered with world 'Level1'.
+[2022.11.24-23.29.26:262][194]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.29.26:263][194]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.29.26
+[2022.11.24-23.29.26:263][194]LogWorld: Bringing up level for play took: 0.000971
+[2022.11.24-23.29.26:264][194]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2022.11.24-23.29.26:266][194]PIE: Server logged in
+[2022.11.24-23.29.26:267][194]PIE: Play in editor total start time 0.133 seconds.
+[2022.11.24-23.29.26:277][194]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.29.37:496][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.29.37:496][233]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.29.37:496][233]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.29.37:497][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.29.37:551][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.29.37:555][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.29.37:589][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.29.37:590][233]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.29.37:590][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2022.11.24-23.29.37:591][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2022.11.24-23.29.37:601][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.24-23.29.37:704][234]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2022.11.24-23.29.46:361][941]Cmd: DUPLICATE
+[2022.11.24-23.29.46:361][941]Cmd: ACTOR DUPLICATE
+[2022.11.24-23.30.15:662][422]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.30.15:667][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.30.15:667][422]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:30:15 AM)
+[2022.11.24-23.30.15:667][422]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.30.15:670][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002545s)
+[2022.11.24-23.30.15:670][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002597s)
+[2022.11.24-23.30.15:670][422]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.30.15:670][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.30.15:670][422]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.30.15:670][422]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2022.11.24-23.30.15:708][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.24-23.30.15:711][422]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2022.11.24-23.30.15:711][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.30.15:711][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.30.15:711][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.30.15:711][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.30.15:711][422]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.30.15:711][422]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.30.15:711][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.30.15:711][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.30.15:712][422]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.30.15:712][422]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.30.15:712][422]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.30.15:714][422]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.30.15:739][422]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.30.15:739][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.30.15:739][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.30.15:739][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.30.15:740][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2022.11.24-23.30.15:740][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2022.11.24-23.30.15:741][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2022.11.24-23.30.15:741][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2022.11.24-23.30.15:741][422]LogInit: FAudioDevice initialized.
+[2022.11.24-23.30.15:741][422]LogAudio: Display: Audio Device (ID: 93) registered with world 'Level1'.
+[2022.11.24-23.30.15:753][422]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.30.15:754][422]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.30.15
+[2022.11.24-23.30.15:754][422]LogWorld: Bringing up level for play took: 0.000983
+[2022.11.24-23.30.15:756][422]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2022.11.24-23.30.15:757][422]PIE: Server logged in
+[2022.11.24-23.30.15:758][422]PIE: Play in editor total start time 0.091 seconds.
+[2022.11.24-23.30.15:768][422]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.30.23:695][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.30.23:695][157]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.30.23:695][157]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.30.23:695][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.30.23:742][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.30.23:746][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.30.23:784][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.30.23:784][157]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.30.23:784][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2022.11.24-23.30.23:785][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2022.11.24-23.30.23:810][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.30.23:812][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.24-23.30.23:902][158]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2022.11.24-23.30.26:126][353]Cmd: DELETE
+[2022.11.24-23.30.26:126][353]Cmd: ACTOR DELETE
+[2022.11.24-23.30.26:127][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.24-23.30.26:164][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.24-23.30.26:167][353]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.11.24-23.30.27:610][483]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.30.27:615][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.30.27:615][483]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:30:27 AM)
+[2022.11.24-23.30.27:655][483]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.30.27:661][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005741s)
+[2022.11.24-23.30.27:661][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005893s)
+[2022.11.24-23.30.27:661][483]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.30.27:661][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.30.27:662][483]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.30.27:662][483]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2022.11.24-23.30.27:697][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.24-23.30.27:700][483]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2022.11.24-23.30.27:700][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.30.27:700][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.30.27:700][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.30.27:700][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.30.27:700][483]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.30.27:700][483]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.30.27:700][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.30.27:700][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.30.27:700][483]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.30.27:700][483]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.30.27:700][483]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.30.27:702][483]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.30.27:727][483]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.30.27:727][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.30.27:727][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.30.27:727][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.30.27:727][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2022.11.24-23.30.27:727][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2022.11.24-23.30.27:729][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2022.11.24-23.30.27:729][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2022.11.24-23.30.27:729][483]LogInit: FAudioDevice initialized.
+[2022.11.24-23.30.27:729][483]LogAudio: Display: Audio Device (ID: 94) registered with world 'Level1'.
+[2022.11.24-23.30.27:739][483]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.30.27:740][483]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.30.27
+[2022.11.24-23.30.27:740][483]LogWorld: Bringing up level for play took: 0.000852
+[2022.11.24-23.30.27:742][483]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2022.11.24-23.30.27:743][483]PIE: Server logged in
+[2022.11.24-23.30.27:744][483]PIE: Play in editor total start time 0.128 seconds.
+[2022.11.24-23.30.27:753][483]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.30.40:874][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.30.40:874][714]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.30.40:875][714]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.30.40:875][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.30.40:924][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.30.40:928][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.30.40:963][714]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.30.40:963][714]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.30.40:963][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2022.11.24-23.30.40:964][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2022.11.24-23.30.40:982][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.30.40:983][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.24-23.30.41:085][715]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2022.11.24-23.30.42:028][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.24-23.30.42:037][794]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.11.24-23.30.42:038][794]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level11D51CDE349EDAE6ABB8907BD89108094.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Level1.umap'
+[2022.11.24-23.30.42:050][794]LogFileHelpers: No new changes to save!
+[2022.11.24-23.30.42:064][794]AssetCheck: New page: Asset Save: Level1
+[2022.11.24-23.30.42:064][794]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.11.24-23.31.50:371][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_stairs_wood_03.SM_PROP_stairs_wood_03
+[2022.11.24-23.31.50:371][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_stairs_wood_03.SM_PROP_stairs_wood_03
+[2022.11.24-23.31.50:371][183]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_stairs_wood_03.SM_PROP_stairs_wood_03 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_28
+[2022.11.24-23.31.51:294][262]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_stairs_wood_03.SM_PROP_stairs_wood_03
+[2022.11.24-23.31.51:294][262]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_stairs_wood_03.SM_PROP_stairs_wood_03
+[2022.11.24-23.31.51:295][262]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_stairs_wood_03.SM_PROP_stairs_wood_03 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_29
+[2022.11.24-23.32.48:971][706]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.32.48:977][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.32.48:977][706]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:32:48 AM)
+[2022.11.24-23.32.49:004][706]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.32.49:007][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002520s)
+[2022.11.24-23.32.49:007][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002598s)
+[2022.11.24-23.32.49:007][706]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.32.49:007][706]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.32.49:007][706]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.32.49:007][706]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2022.11.24-23.32.49:048][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.24-23.32.49:052][706]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2022.11.24-23.32.49:052][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.32.49:052][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.32.49:052][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.32.49:052][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.32.49:052][706]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.32.49:052][706]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.32.49:052][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.32.49:052][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.32.49:053][706]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.32.49:053][706]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.32.49:053][706]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.32.49:054][706]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.32.49:080][706]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.32.49:080][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.32.49:080][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.32.49:080][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.32.49:081][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2022.11.24-23.32.49:081][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2022.11.24-23.32.49:082][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2022.11.24-23.32.49:082][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2022.11.24-23.32.49:082][706]LogInit: FAudioDevice initialized.
+[2022.11.24-23.32.49:082][706]LogAudio: Display: Audio Device (ID: 95) registered with world 'Level1'.
+[2022.11.24-23.32.49:093][706]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.32.49:094][706]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.32.49
+[2022.11.24-23.32.49:095][706]LogWorld: Bringing up level for play took: 0.000934
+[2022.11.24-23.32.49:096][706]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2022.11.24-23.32.49:097][706]PIE: Server logged in
+[2022.11.24-23.32.49:098][706]PIE: Play in editor total start time 0.121 seconds.
+[2022.11.24-23.32.49:107][706]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.33.01:585][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.33.01:585][873]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.33.01:585][873]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.33.01:586][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.33.01:635][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.33.01:640][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.33.01:675][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.33.01:675][873]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.33.01:675][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2022.11.24-23.33.01:676][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2022.11.24-23.33.01:713][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.24-23.33.01:819][874]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2022.11.24-23.33.38:246][739]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.33.38:252][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.33.38:252][739]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:33:38 AM)
+[2022.11.24-23.33.38:252][739]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.33.38:255][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002533s)
+[2022.11.24-23.33.38:255][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002588s)
+[2022.11.24-23.33.38:255][739]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.33.38:255][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.33.38:255][739]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.33.38:255][739]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2022.11.24-23.33.38:293][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.24-23.33.38:297][739]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2022.11.24-23.33.38:297][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.33.38:297][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.33.38:297][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.33.38:297][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.33.38:297][739]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.33.38:297][739]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.33.38:297][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.33.38:297][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.33.38:297][739]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.33.38:297][739]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.33.38:297][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.33.38:299][739]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.33.38:324][739]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.33.38:324][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.33.38:324][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.33.38:324][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.33.38:325][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2022.11.24-23.33.38:325][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2022.11.24-23.33.38:326][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2022.11.24-23.33.38:326][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2022.11.24-23.33.38:326][739]LogInit: FAudioDevice initialized.
+[2022.11.24-23.33.38:326][739]LogAudio: Display: Audio Device (ID: 96) registered with world 'Level1'.
+[2022.11.24-23.33.38:334][739]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.33.38:335][739]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.33.38
+[2022.11.24-23.33.38:335][739]LogWorld: Bringing up level for play took: 0.000892
+[2022.11.24-23.33.38:337][739]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2022.11.24-23.33.38:338][739]PIE: Server logged in
+[2022.11.24-23.33.38:339][739]PIE: Play in editor total start time 0.086 seconds.
+[2022.11.24-23.33.38:348][739]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.33.44:494][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.33.44:494][303]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.33.44:494][303]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.33.44:494][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.33.44:544][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.33.44:548][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.33.44:584][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.33.44:584][303]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.33.44:584][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2022.11.24-23.33.44:585][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2022.11.24-23.33.44:594][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.33.44:596][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.24-23.33.44:714][304]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2022.11.24-23.33.56:179][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_stone_small_01.SM_PROP_wall_stone_small_01
+[2022.11.24-23.33.56:179][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_stone_small_01.SM_PROP_wall_stone_small_01
+[2022.11.24-23.33.56:179][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_stone_small_01.SM_PROP_wall_stone_small_01 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_30
+[2022.11.24-23.33.57:121][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_stone_small_01.SM_PROP_wall_stone_small_01
+[2022.11.24-23.33.57:121][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_stone_small_01.SM_PROP_wall_stone_small_01
+[2022.11.24-23.33.57:121][109]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_stone_small_01.SM_PROP_wall_stone_small_01 as actor: StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_31
+[2022.11.24-23.34.15:297][496]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.34.15:303][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.34.15:303][496]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:34:15 AM)
+[2022.11.24-23.34.15:324][496]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.34.15:327][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002856s)
+[2022.11.24-23.34.15:327][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002943s)
+[2022.11.24-23.34.15:327][496]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.34.15:327][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.34.15:327][496]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.34.15:327][496]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2022.11.24-23.34.15:365][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.24-23.34.15:370][496]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2022.11.24-23.34.15:370][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.34.15:370][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.34.15:370][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.34.15:371][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.34.15:371][496]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.34.15:371][496]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.34.15:371][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.34.15:371][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.34.15:371][496]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.34.15:371][496]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.34.15:371][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.34.15:373][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.34.15:398][496]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.34.15:398][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.34.15:398][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.34.15:398][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.34.15:398][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=97
+[2022.11.24-23.34.15:398][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=97
+[2022.11.24-23.34.15:400][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=97
+[2022.11.24-23.34.15:400][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=97
+[2022.11.24-23.34.15:400][496]LogInit: FAudioDevice initialized.
+[2022.11.24-23.34.15:400][496]LogAudio: Display: Audio Device (ID: 97) registered with world 'Level1'.
+[2022.11.24-23.34.15:409][496]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.34.15:410][496]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.34.15
+[2022.11.24-23.34.15:411][496]LogWorld: Bringing up level for play took: 0.000912
+[2022.11.24-23.34.15:412][496]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2022.11.24-23.34.15:413][496]PIE: Server logged in
+[2022.11.24-23.34.15:414][496]PIE: Play in editor total start time 0.112 seconds.
+[2022.11.24-23.34.15:423][496]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.34.21:845][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.34.21:845][ 83]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.34.21:845][ 83]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.34.21:846][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.34.21:895][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.34.21:899][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.34.21:934][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.34.21:934][ 83]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.34.21:934][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2022.11.24-23.34.21:935][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2022.11.24-23.34.21:949][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.34.21:951][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.24-23.34.22:055][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2022.11.24-23.34.23:579][201]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-23.34.23:584][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-23.34.23:584][201]PIE: New page: PIE session: Level1 (Nov 24, 2022, 9:34:23 AM)
+[2022.11.24-23.34.23:624][201]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.24-23.34.23:626][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002463s)
+[2022.11.24-23.34.23:626][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002551s)
+[2022.11.24-23.34.23:626][201]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-23.34.23:626][201]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-23.34.23:627][201]LogAIModule: Creating AISystem for world Level1
+[2022.11.24-23.34.23:627][201]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2022.11.24-23.34.23:663][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.24-23.34.23:667][201]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2022.11.24-23.34.23:667][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-23.34.23:667][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-23.34.23:667][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-23.34.23:667][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-23.34.23:667][201]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.24-23.34.23:667][201]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-23.34.23:667][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.24-23.34.23:667][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-23.34.23:667][201]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.24-23.34.23:667][201]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.24-23.34.23:667][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-23.34.23:669][201]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-23.34.23:695][201]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.24-23.34.23:695][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-23.34.23:695][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-23.34.23:695][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-23.34.23:695][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=98
+[2022.11.24-23.34.23:695][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=98
+[2022.11.24-23.34.23:697][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=98
+[2022.11.24-23.34.23:697][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=98
+[2022.11.24-23.34.23:697][201]LogInit: FAudioDevice initialized.
+[2022.11.24-23.34.23:697][201]LogAudio: Display: Audio Device (ID: 98) registered with world 'Level1'.
+[2022.11.24-23.34.23:710][201]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.24-23.34.23:711][201]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.24-16.34.23
+[2022.11.24-23.34.23:711][201]LogWorld: Bringing up level for play took: 0.000967
+[2022.11.24-23.34.23:713][201]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2022.11.24-23.34.23:714][201]PIE: Server logged in
+[2022.11.24-23.34.23:715][201]PIE: Play in editor total start time 0.131 seconds.
+[2022.11.24-23.34.23:725][201]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.24-23.34.29:485][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.34.29:485][734]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.24-23.34.29:485][734]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-23.34.29:486][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.34.29:537][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-23.34.29:541][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-23.34.29:576][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-23.34.29:576][734]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.24-23.34.29:576][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2022.11.24-23.34.29:577][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2022.11.24-23.34.29:613][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-23.34.29:616][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.24-23.34.29:720][735]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2022.11.24-23.34.31:345][860]Cmd: SELECT NONE
+[2022.11.24-23.34.32:315][949]Cmd: SELECT NONE
+[2022.11.24-23.34.32:768][991]Cmd: SELECT NONE
+[2022.11.24-23.34.37:401][399]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.24-23.34.37:423][400]LogViewport: Scene viewport resized to 643x398, mode Windowed.
