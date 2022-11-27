@@ -1139,3 +1139,363 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.27-19.02.58:114][589]PIE: Server logged in
 [2022.11.27-19.02.58:115][589]PIE: Play in editor total start time 0.155 seconds.
 [2022.11.27-19.02.58:197][589]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-19.18.04:619][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-19.18.04:619][315]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.27-19.18.04:619][315]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-19.18.04:626][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.18.04:637][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-19.18.04:642][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.18.04:673][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-19.18.04:673][315]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-19.18.04:673][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.27-19.18.04:675][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.27-19.18.04:717][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.11.27-19.18.04:757][316]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.11.27-19.27.50:365][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.27-19.27.50:521][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level1_Auto1
+[2022.11.27-19.27.50:522][575]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level1_Auto1CDA81E5D42435BCF218A429C42D68E47.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Level1_Auto1.umap'
+[2022.11.27-19.27.50:529][575]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.199
+[2022.11.27-19.27.50:529][575]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.199
+[2022.11.27-19.40.07:286][661]LogDerivedDataCache: C:/Users/jdobyns/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.250 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-19.42.56:524][201]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.11.27-19.43.00:454][580]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.11.27-19.44.15:412][491]BlueprintLog: New page: Compile MainMenu
+[2022.11.27-19.44.15:459][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.27-19.44.16:423][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.27-19.44.16:428][578]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.27-19.44.16:429][578]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenu329B59D84D180278D4BA1FBFF6EB7E28.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset'
+[2022.11.27-19.44.16:439][578]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.27-19.44.16:439][578]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.27-19.44.17:146][648]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-19.44.17:152][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-19.44.17:152][648]PIE: New page: PIE session: Level1 (Nov 27, 2022, 5:44:17 AM)
+[2022.11.27-19.44.17:186][648]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.27-19.44.17:233][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046576s)
+[2022.11.27-19.44.17:233][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.046726s)
+[2022.11.27-19.44.17:233][648]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-19.44.17:233][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-19.44.17:233][648]LogAIModule: Creating AISystem for world Level1
+[2022.11.27-19.44.17:234][648]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2022.11.27-19.44.17:266][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.27-19.44.17:268][648]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.27-19.44.17:268][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-19.44.17:268][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-19.44.17:268][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-19.44.17:268][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-19.44.17:268][648]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-19.44.17:268][648]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-19.44.17:268][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-19.44.17:268][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-19.44.17:268][648]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-19.44.17:268][648]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-19.44.17:268][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-19.44.17:270][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-19.44.17:298][648]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.27-19.44.17:298][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-19.44.17:298][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-19.44.17:298][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-19.44.17:299][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.11.27-19.44.17:299][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.11.27-19.44.17:300][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.11.27-19.44.17:300][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.11.27-19.44.17:300][648]LogInit: FAudioDevice initialized.
+[2022.11.27-19.44.17:300][648]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2022.11.27-19.44.17:310][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.27-19.44.17:338][648]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.27-12.44.17
+[2022.11.27-19.44.17:338][648]LogWorld: Bringing up level for play took: 0.027570
+[2022.11.27-19.44.17:339][648]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.11.27-19.44.17:341][648]PIE: Server logged in
+[2022.11.27-19.44.17:341][648]PIE: Play in editor total start time 0.19 seconds.
+[2022.11.27-19.44.17:420][648]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-19.44.21:016][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-19.44.21:017][822]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.27-19.44.21:017][822]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-19.44.21:021][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.44.21:031][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-19.44.21:036][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.44.21:068][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-19.44.21:068][822]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-19.44.21:068][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.11.27-19.44.21:069][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.11.27-19.44.21:094][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-19.44.21:109][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.27-19.44.21:127][823]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.11.27-19.44.29:511][705]BlueprintLog: New page: Compile MainMenu
+[2022.11.27-19.44.29:544][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-19.44.30:149][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.27-19.44.30:154][755]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.27-19.44.30:155][755]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenuAC22B98E4AED04C3011340B4E91DF7F1.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset'
+[2022.11.27-19.44.30:165][755]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.27-19.44.30:165][755]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.27-19.44.30:870][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-19.44.30:876][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-19.44.30:876][820]PIE: New page: PIE session: Level1 (Nov 27, 2022, 5:44:30 AM)
+[2022.11.27-19.44.30:876][820]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.11.27-19.44.30:920][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043939s)
+[2022.11.27-19.44.30:920][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.044066s)
+[2022.11.27-19.44.30:920][820]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-19.44.30:921][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-19.44.30:921][820]LogAIModule: Creating AISystem for world Level1
+[2022.11.27-19.44.30:922][820]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2022.11.27-19.44.30:955][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.27-19.44.30:957][820]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.27-19.44.30:957][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-19.44.30:957][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-19.44.30:957][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-19.44.30:957][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-19.44.30:957][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-19.44.30:957][820]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-19.44.30:957][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-19.44.30:957][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-19.44.30:958][820]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-19.44.30:958][820]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-19.44.30:958][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-19.44.30:959][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-19.44.30:985][820]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.27-19.44.30:986][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-19.44.30:986][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-19.44.30:986][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-19.44.30:987][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.11.27-19.44.30:987][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.11.27-19.44.30:988][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.11.27-19.44.30:988][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.11.27-19.44.30:988][820]LogInit: FAudioDevice initialized.
+[2022.11.27-19.44.30:988][820]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2022.11.27-19.44.31:000][820]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.27-19.44.31:028][820]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.27-12.44.31
+[2022.11.27-19.44.31:028][820]LogWorld: Bringing up level for play took: 0.028136
+[2022.11.27-19.44.31:029][820]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.11.27-19.44.31:031][820]PIE: Server logged in
+[2022.11.27-19.44.31:031][820]PIE: Play in editor total start time 0.156 seconds.
+[2022.11.27-19.44.31:116][820]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-19.44.36:986][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-19.44.36:986][945]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.27-19.44.36:987][945]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-19.44.36:992][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.44.37:003][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-19.44.37:008][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.44.37:038][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-19.44.37:040][945]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-19.44.37:040][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.27-19.44.37:042][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.27-19.44.37:077][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.11.27-19.44.37:096][946]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.11.27-19.45.57:834][636]LogEditorTransaction: Undo Resize Widget
+[2022.11.27-19.45.58:555][665]LogEditorTransaction: Undo Resize Widget
+[2022.11.27-19.45.59:067][714]LogEditorTransaction: Undo Move Widget
+[2022.11.27-19.45.59:685][773]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.11.27-19.46.12:004][173]LogEditorTransaction: Undo Add Widget
+[2022.11.27-19.46.47:308][233]BlueprintLog: New page: Compile MainMenu
+[2022.11.27-19.46.47:356][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.27-19.46.47:951][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.27-19.46.47:955][281]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.27-19.46.47:956][281]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenuD3173A7B4D1F2E25C44A49BA2DE00E5F.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset'
+[2022.11.27-19.46.47:968][281]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.27-19.46.47:968][281]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.27-19.47.17:657][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.27-19.47.17:814][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level1_Auto2
+[2022.11.27-19.47.17:815][686]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level1_Auto2F982FB874F9864B60099B7BC39B78B27.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Level1_Auto2.umap'
+[2022.11.27-19.47.17:820][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.198
+[2022.11.27-19.47.17:820][686]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.198
+[2022.11.27-19.53.54:226][788]BlueprintLog: New page: Compile MainMenu
+[2022.11.27-19.53.54:275][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.27-19.53.54:884][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.27-19.53.54:889][841]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.27-19.53.54:890][841]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenu7E6B59444C27B66356A8C5A9D2B99A52.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset'
+[2022.11.27-19.53.54:901][841]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.27-19.53.54:901][841]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.27-19.57.00:117][353]BlueprintLog: New page: Compile MainMenu
+[2022.11.27-19.57.00:166][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.27-19.57.00:743][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.27-19.57.00:748][400]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.27-19.57.00:749][400]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenuDC2770CD4176F7995F9933B60966E908.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset'
+[2022.11.27-19.57.00:760][400]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.27-19.57.00:760][400]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.27-19.57.06:323][ 21]LogEditorTransaction: Undo Delete current selection
+[2022.11.27-19.57.16:239][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.27-19.57.16:393][108]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.11.27-19.57.16:394][108]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level1138D6D7A420F09DF729551BBC3BABB04.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Level1.umap'
+[2022.11.27-19.57.16:407][108]LogFileHelpers: No new changes to save!
+[2022.11.27-19.57.16:407][108]LogFileHelpers: Saving map 'Level1' took 0.203
+[2022.11.27-19.57.16:420][108]AssetCheck: New page: Asset Save: Level1
+[2022.11.27-19.57.16:420][108]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.11.27-19.57.21:199][260]LogSlate: Window 'New Level' being destroyed
+[2022.11.27-19.57.21:208][260]LightingResults: New page: Lighting Build
+[2022.11.27-19.57.21:241][260]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-19.57.21:241][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.57.21:271][260]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-19.57.21:272][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.57.21:272][260]MapCheck: New page: Map Check
+[2022.11.27-19.57.21:272][260]LightingResults: New page: Lighting Build
+[2022.11.27-19.57.21:297][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-19.57.21:315][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.27-19.57.21:323][260]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-19.57.21:323][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-19.57.21:324][260]LogAIModule: Creating AISystem for world Untitled
+[2022.11.27-19.57.21:325][260]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.27-19.57.21:332][260]LoadErrors: New page: New Map
+[2022.11.27-19.57.28:961][ 64]LogEditorViewport: Clicking Background
+[2022.11.27-19.57.41:162][116]LogSlate: Window 'Save Level As' being destroyed
+[2022.11.27-19.57.41:281][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.11.27-19.57.41:286][116]LogSavePackage: Moving output files for package: /Game/MainMenuMap
+[2022.11.27-19.57.41:286][116]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenuMapF692DBCC4C9E8630E3A5B482A82C09E8.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/MainMenuMap.umap'
+[2022.11.27-19.57.41:306][116]LogFileHelpers: Saving map 'MainMenuMap' took 0.133
+[2022.11.27-19.57.41:311][116]AssetCheck: New page: Asset Save: MainMenuMap
+[2022.11.27-19.57.41:311][116]LogContentValidation: Display: Validating World /Game/MainMenuMap.MainMenuMap
+[2022.11.27-19.57.52:509][937]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2022.11.27-19.57.52:509][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-19.57.59:377][689]BlueprintLog: New page: Compile MainMenuMap
+[2022.11.27-19.57.59:477][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.27-19.58.01:480][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.11.27-19.58.01:487][902]LogSavePackage: Moving output files for package: /Game/MainMenuMap
+[2022.11.27-19.58.01:488][902]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenuMap05406C5C4EB2EF266D475DAAEEA666DD.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/MainMenuMap.umap'
+[2022.11.27-19.58.01:496][902]LogFileHelpers: Saving map 'MainMenuMap' took 0.053
+[2022.11.27-19.58.01:509][902]AssetCheck: New page: Asset Save: MainMenuMap
+[2022.11.27-19.58.01:509][902]LogContentValidation: Display: Validating World /Game/MainMenuMap.MainMenuMap
+[2022.11.27-19.58.24:940][957]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.27-19.58.24:949][957]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.27-19.58.24:953][957]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.27-19.58.24:965][958]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.27-19.58.35:201][160]LogContentBrowser: Attempting asset rename: NewBlueprint -> MenuGameMode
+[2022.11.27-19.58.35:205][160]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.27-19.58.57:619][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.27-19.58.57:623][258]LogSavePackage: Moving output files for package: /Game/MainMenuMap
+[2022.11.27-19.58.57:624][258]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenuMap38C0E2FD4D2E120CA87B31AF4AAFEE7A.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/MainMenuMap.umap'
+[2022.11.27-19.58.57:647][258]AssetCheck: New page: Asset Save: MainMenuMap
+[2022.11.27-19.58.57:647][258]LogContentValidation: Display: Validating World /Game/MainMenuMap.MainMenuMap
+[2022.11.27-19.58.58:454][350]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-19.58.58:459][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-19.58.58:459][350]PIE: New page: PIE session: MainMenuMap (Nov 27, 2022, 5:58:58 AM)
+[2022.11.27-19.58.58:459][350]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2022.11.27-19.58.58:460][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000977s)
+[2022.11.27-19.58.58:460][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001027s)
+[2022.11.27-19.58.58:460][350]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-19.58.58:460][350]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-19.58.58:461][350]LogAIModule: Creating AISystem for world MainMenuMap
+[2022.11.27-19.58.58:461][350]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2022.11.27-19.58.58:495][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.27-19.58.58:496][350]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.27-19.58.58:496][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-19.58.58:496][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-19.58.58:496][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-19.58.58:496][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-19.58.58:496][350]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-19.58.58:496][350]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-19.58.58:496][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-19.58.58:496][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-19.58.58:497][350]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-19.58.58:497][350]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-19.58.58:497][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-19.58.58:499][350]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-19.58.58:527][350]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.27-19.58.58:527][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-19.58.58:527][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-19.58.58:527][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-19.58.58:528][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.11.27-19.58.58:528][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.11.27-19.58.58:530][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.11.27-19.58.58:530][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.11.27-19.58.58:530][350]LogInit: FAudioDevice initialized.
+[2022.11.27-19.58.58:530][350]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenuMap'.
+[2022.11.27-19.58.58:538][350]LogLoad: Game class is 'MenuGameMode_C'
+[2022.11.27-19.58.58:538][350]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2022.11.27-12.58.58
+[2022.11.27-19.58.58:538][350]LogWorld: Bringing up level for play took: 0.000254
+[2022.11.27-19.58.58:539][350]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.11.27-19.58.58:541][350]PIE: Server logged in
+[2022.11.27-19.58.58:541][350]PIE: Play in editor total start time 0.082 seconds.
+[2022.11.27-19.58.58:550][350]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-19.59.05:375][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-19.59.05:375][970]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2022.11.27-19.59.05:375][970]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-19.59.05:375][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.59.05:390][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-19.59.05:394][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-19.59.05:424][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-19.59.05:425][970]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-19.59.05:425][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.27-19.59.05:426][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.27-19.59.05:438][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.27-19.59.05:460][971]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.11.27-20.00.43:484][239]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::OpenLevel' [The specified module could not be found.]
+[2022.11.27-20.01.00:320][171]BlueprintLog: New page: Compile MainMenu
+[2022.11.27-20.01.00:368][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.27-20.01.00:929][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset" SILENT=true
+[2022.11.27-20.01.00:935][226]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2022.11.27-20.01.00:935][226]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenuE74DC8CE412954AEE3C886AF3C038EAB.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/MainMenu.uasset'
+[2022.11.27-20.01.00:947][226]AssetCheck: New page: Asset Save: MainMenu
+[2022.11.27-20.01.00:947][226]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.11.27-20.01.02:619][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-20.01.02:625][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-20.01.02:625][365]PIE: New page: PIE session: MainMenuMap (Nov 27, 2022, 6:01:02 AM)
+[2022.11.27-20.01.02:625][365]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuMap
+[2022.11.27-20.01.02:626][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000959s)
+[2022.11.27-20.01.02:626][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuMap.MainMenuMap to /Game/UEDPIE_0_MainMenuMap.MainMenuMap (0.001007s)
+[2022.11.27-20.01.02:626][365]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-20.01.02:626][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-20.01.02:627][365]LogAIModule: Creating AISystem for world MainMenuMap
+[2022.11.27-20.01.02:627][365]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2022.11.27-20.01.02:661][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.27-20.01.02:663][365]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.27-20.01.02:663][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-20.01.02:663][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-20.01.02:663][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-20.01.02:663][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-20.01.02:663][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-20.01.02:663][365]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-20.01.02:663][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-20.01.02:663][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-20.01.02:663][365]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-20.01.02:663][365]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-20.01.02:663][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-20.01.02:665][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-20.01.02:693][365]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.27-20.01.02:693][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-20.01.02:693][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-20.01.02:693][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-20.01.02:694][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.11.27-20.01.02:694][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.11.27-20.01.02:695][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.11.27-20.01.02:695][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.11.27-20.01.02:695][365]LogInit: FAudioDevice initialized.
+[2022.11.27-20.01.02:695][365]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenuMap'.
+[2022.11.27-20.01.02:706][365]LogLoad: Game class is 'MenuGameMode_C'
+[2022.11.27-20.01.02:707][365]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2022.11.27-13.01.02
+[2022.11.27-20.01.02:707][365]LogWorld: Bringing up level for play took: 0.000262
+[2022.11.27-20.01.02:708][365]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.11.27-20.01.02:710][365]PIE: Server logged in
+[2022.11.27-20.01.02:711][365]PIE: Play in editor total start time 0.086 seconds.
+[2022.11.27-20.01.02:719][365]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-20.01.04:990][579]LogNet: Browse: /Game/Level1
+[2022.11.27-20.01.04:990][579]LogLoad: LoadMap: /Game/Level1
+[2022.11.27-20.01.04:990][579]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuMap
+[2022.11.27-20.01.04:990][579]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-20.01.04:991][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-20.01.05:052][579]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-20.01.05:055][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.27-20.01.05:173][579]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2022.11.27-20.01.05:173][579]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-20.01.05:173][579]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-20.01.05:174][579]LogAIModule: Creating AISystem for world Level1
+[2022.11.27-20.01.05:174][579]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2022.11.27-20.01.05:174][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.27-20.01.05:257][579]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.11.27-13.01.05
+[2022.11.27-20.01.05:257][579]LogWorld: Bringing up level for play took: 0.082694
+[2022.11.27-20.01.05:257][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.27-20.01.05:258][579]LogLoad: Took 0.268496 seconds to LoadMap(/Game/Level1)
+[2022.11.27-20.02.01:234][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-20.02.01:234][247]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.11.27-20.02.01:234][247]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-20.02.01:238][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-20.02.01:248][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-20.02.01:254][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-20.02.01:284][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-20.02.01:287][247]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-20.02.01:287][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.27-20.02.01:288][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.27-20.02.01:339][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.27-20.02.01:365][248]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.11.27-20.02.02:325][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.27-20.02.02:329][351]LogSavePackage: Moving output files for package: /Game/MainMenuMap
+[2022.11.27-20.02.02:330][351]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MainMenuMap0F4686984464483DE81C669D9602C0D4.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/MainMenuMap.umap'
+[2022.11.27-20.02.02:354][351]AssetCheck: New page: Asset Save: MainMenuMap
+[2022.11.27-20.02.02:354][351]LogContentValidation: Display: Validating World /Game/MainMenuMap.MainMenuMap
