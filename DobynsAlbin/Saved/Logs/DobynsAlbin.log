@@ -3970,3 +3970,343 @@ SM_PROP_wall_wood_post_7
 [2022.11.27-21.46.50:763][130]LogFileHelpers: No new changes to save!
 [2022.11.27-21.46.50:787][130]AssetCheck: New page: Asset Save: Level2
 [2022.11.27-21.46.50:787][130]LogContentValidation: Display: Validating World /Game/Level2.Level2
+[2022.11.27-21.56.51:039][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.27-21.56.51:041][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level2' took 0.022
+[2022.11.27-21.56.51:041][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/materials/MI_landscape] ([1] browsable assets)...
+[2022.11.27-21.56.51:041][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/materials/MI_landscape]
+[2022.11.27-21.56.51:059][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.27-21.56.51:076][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.27-21.56.51:078][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/materials/MI_landscape_Auto4
+[2022.11.27-21.56.51:078][ 54]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MI_landscape_Auto422566D6A4BB2FB4B1DDFC881422DCE53.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Fantastic_Village_Pack/materials/MI_landscape_Auto4.uasset'
+[2022.11.27-21.56.51:078][ 54]LogFileHelpers: Auto-saving content packages took 0.037
+[2022.11.27-22.27.37:866][745]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.11.27-22.27.37:866][745]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.11.27-22.27.49:173][304]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.27-22.27.49:182][304]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.27-22.27.49:188][304]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.27-22.27.49:205][306]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.27-22.27.52:498][663]LogContentBrowser: Attempting asset rename: NewBlueprint -> Goomba
+[2022.11.27-22.27.52:502][663]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.27-22.27.53:750][812]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Goomba.Goomba
+[2022.11.27-22.27.53:750][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.27.54:097][812]LogViewport: Scene viewport resized to 988x589, mode Windowed.
+[2022.11.27-22.28.58:485][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.11.27-22.28.58:519][219]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level2_Auto5
+[2022.11.27-22.28.58:519][219]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level2_Auto5FBEE476147D4047E413887BC72C09247.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Level2_Auto5.umap'
+[2022.11.27-22.28.58:525][219]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level2' took 0.067
+[2022.11.27-22.28.58:525][219]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2022.11.27-22.29.45:240][858]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2022.11.27-22.29.51:562][ 32]LogSlate: Window 'Message' being destroyed
+[2022.11.27-22.29.51:584][ 32]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Fantastic_Village_Pack/materials/master_materials/M_Master_landscape.M_Master_landscape
+(Selecting 'No' will cause all changes to be lost!)
+[2022.11.27-22.29.51:973][ 32]LogMaterial: Display: Missing cached shadermap for Preview:M_Master_landscape in PCD3D_SM5, Default, SM5 (DDC key hash: 347FB1AD79B8504CE73674479C1BADEF51C7D84A), compiling. 
+[2022.11.27-22.29.51:990][ 32]LogMaterial: Display: Missing cached shadermap for M_Master_landscape in PCD3D_SM5, Default, SM5 (DDC key hash: 51F7D95A1095B6DE2FB1960A4361FCFA65F0701E), compiling. 
+[2022.11.27-22.29.52:003][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_202 in PCD3D_SM5, Default, SM5 (DDC key hash: 148A2F7591F477E0F60AB5E07ED55B25ABB99457), compiling. 
+[2022.11.27-22.29.52:010][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_162 in PCD3D_SM5, Default, SM5 (DDC key hash: A80006F4266A2AC9EA86BC1C307AAB4AC5CA0E66), compiling. 
+[2022.11.27-22.29.52:017][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_234 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C671B4F8B42A0EFACA1EA382AF704D871DF9535), compiling. 
+[2022.11.27-22.29.52:023][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_194 in PCD3D_SM5, Default, SM5 (DDC key hash: 567B598B385A35BF1870CF3BF8EE0AB4F31F80D6), compiling. 
+[2022.11.27-22.29.52:026][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_65 in PCD3D_SM5, Default, SM5 (DDC key hash: F892C4073061E63803BABB085399E992005F6097), compiling. 
+[2022.11.27-22.29.52:029][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_66 in PCD3D_SM5, Default, SM5 (DDC key hash: D5EEC6AB77D2F1189B4C3332188F849D4BCC1A05), compiling. 
+[2022.11.27-22.29.52:032][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_67 in PCD3D_SM5, Default, SM5 (DDC key hash: 2637BED9FAC2BF80057B69EFEFB92C3BAD7CFA9B), compiling. 
+[2022.11.27-22.29.52:035][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_68 in PCD3D_SM5, Default, SM5 (DDC key hash: 03B75C40FDAC12DB60D84CF5A1A18D19E2459FD7), compiling. 
+[2022.11.27-22.29.52:038][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_69 in PCD3D_SM5, Default, SM5 (DDC key hash: F5B639D6588730FD324B58691CA911733CF69F53), compiling. 
+[2022.11.27-22.29.52:041][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_70 in PCD3D_SM5, Default, SM5 (DDC key hash: 61B4506F9EFF414DF5193108DF7A165FF966D948), compiling. 
+[2022.11.27-22.29.52:044][ 32]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_71 in PCD3D_SM5, Default, SM5 (DDC key hash: 13D442BD7436B77CDA1356D5CEE614C64416199F), compiling. 
+[2022.11.27-22.29.52:279][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.27-22.29.52:452][ 32]LogShaderCompilers: Display: ================================================
+[2022.11.27-22.29.52:452][ 32]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.27-22.29.52:452][ 32]LogShaderCompilers: Display: Total job queries 478, among them cache hits 151 (31.59%)
+[2022.11.27-22.29.52:452][ 32]LogShaderCompilers: Display: Tracking 315 distinct input hashes that result in 159 distinct outputs (50.48%)
+[2022.11.27-22.29.52:452][ 32]LogShaderCompilers: Display: RAM used: 0.72 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2022.11.27-22.29.52:452][ 32]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Shaders Compiled: 177
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Jobs assigned 315, completed 315 (100.00%)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Average time worker was idle: 63.21 s
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Time job spent in pending queue: average 6.12 s, longest 33.64 s
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Job execution time: average 7.27 s, max 36.86 s
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Job life time (pending + execution): average 13.39 s, max 36.91
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 157.40 s
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Jobs were issued in 267 batches (only local compilation was used), average 1.18 jobs/batch
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Average processing rate: 2.00 jobs/sec
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Effective parallelization: 5.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    6 times, average 7.90 sec, max 9.24 sec, min 5.84 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 7.77 sec, max 9.32 sec, min 5.92 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 7.57 sec, max 9.16 sec, min 5.52 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    6 times, average 7.34 sec, max 9.21 sec, min 5.76 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 7.19 sec, max 8.35 sec, min 5.88 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.65% of total time (compiled   20 times, average 6.24 sec, max 8.46 sec, min 2.42 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 7.08% of total time (compiled   10 times, average 6.48 sec, max 10.01 sec, min 3.06 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.51% of total time (compiled    9 times, average 6.61 sec, max 9.43 sec, min 3.15 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 5.19% of total time (compiled    6 times, average 7.90 sec, max 9.24 sec, min 5.84 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 5.10% of total time (compiled    6 times, average 7.77 sec, max 9.32 sec, min 5.92 sec)
+[2022.11.27-22.29.52:453][ 32]LogShaderCompilers: Display: ================================================
+[2022.11.27-22.29.52:478][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.27-22.29.52:508][ 32]LogSlate: Window 'Goomba' being destroyed
+[2022.11.27-22.29.52:511][ 32]LogSlate: Window 'Goomba' being destroyed
+[2022.11.27-22.29.52:535][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.27-22.29.52:611][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.27-22.29.52:652][ 32]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.29.52:653][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.29.52:687][ 32]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.29.52:687][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.29.52:710][ 32]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.29.52:711][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.30.28:024][209]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.11.27-22.30.30:320][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Goomba.Goomba
+[2022.11.27-22.30.30:320][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.30.39:459][475]LogSlate: Window 'Goomba' being destroyed
+[2022.11.27-22.30.39:469][475]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.30.39:469][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.30.39:496][475]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Goomba.Goomba
+[2022.11.27-22.30.39:497][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.31.43:476][205]LogSlate: Window 'Message' being destroyed
+[2022.11.27-22.31.43:486][205]Message dialog closed, result: Yes, title: Message, text: Do you want to replace the existing asset?
+
+An asset already exists at the import location: /Game/Blueprints/Characters/GOOMBA
+[2022.11.27-22.31.43:516][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.27-22.31.43:568][205]LogUObjectGlobals: Warning: Could not delete
+[2022.11.27-22.31.45:389][205]LogSlate: Window 'Message' being destroyed
+[2022.11.27-22.31.45:398][205]Message dialog closed, result: Ok, title: Message, text: Failed to delete '/Game/Blueprints/Characters/GOOMBA'. The asset is referenced by other content.
+[2022.11.27-22.31.45:398][205]LogAssetTools: Warning: Failed to delete '/Game/Blueprints/Characters/GOOMBA'. The asset is referenced by other content.
+[2022.11.27-22.32.00:072][361]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.27-22.32.00:072][361]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.27-22.32.00:552][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.27-22.32.02:804][395]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.27-22.32.02:867][395]LogSlate: Window 'Goomba' being destroyed
+[2022.11.27-22.32.02:878][395]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.32.02:878][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.32.02:914][395]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Characters/Goomba.Goomba
+	Asset Type: Blueprint
+[2022.11.27-22.32.03:136][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.27-22.32.03:163][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.27-22.32.03:180][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.27-22.32.18:221][918]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/GOOMBA.fbx)
+[2022.11.27-22.32.18:235][918]LogFbx: Loading FBX Scene from ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/GOOMBA.fbx
+[2022.11.27-22.32.18:286][918]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.27-22.32.35:849][918]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.27-22.32.35:884][918]LogMaterial: Display: Missing cached shadermap for TORSO in PCD3D_SM5, Default, SM5 (DDC key hash: F992C47D36C6B4AB8C96C3A50541D7D91254C55D), compiling. 
+[2022.11.27-22.32.35:889][918]LogFbx: Display: Triangulating static mesh CUERPO.001
+[2022.11.27-22.32.35:903][918]LogStaticMesh: Display: Building static mesh GOOMBA_CUERPO_001...
+[2022.11.27-22.32.35:908][918]LogStaticMesh: Built static mesh [0.01s] /Game/GOOMBA_CUERPO_001.GOOMBA_CUERPO_001
+[2022.11.27-22.32.35:927][918]LogMaterial: Display: Missing cached shadermap for pies in PCD3D_SM5, Default, SM5 (DDC key hash: D918D01B952816ED4870695B5DBDA6F21D672512), compiling. 
+[2022.11.27-22.32.35:934][918]LogFbx: Display: Triangulating static mesh PIES.001
+[2022.11.27-22.32.35:983][918]LogStaticMesh: Display: Building static mesh GOOMBA_PIES_001...
+[2022.11.27-22.32.35:999][918]LogStaticMesh: Built static mesh [0.02s] /Game/GOOMBA_PIES_001.GOOMBA_PIES_001
+[2022.11.27-22.32.36:026][918]LogMaterial: Display: Missing cached shadermap for CABEZA in PCD3D_SM5, Default, SM5 (DDC key hash: 1E2F5F1E6A039E80A917B76B1C58FB4EE3C695B2), compiling. 
+[2022.11.27-22.32.36:045][918]LogMaterial: Display: Missing cached shadermap for OJO_BCO in PCD3D_SM5, Default, SM5 (DDC key hash: ED8EA237DA76475BE95AC0450CEF7A4AD30E0BD7), compiling. 
+[2022.11.27-22.32.36:050][918]LogFbx: Display: Triangulating static mesh CABEZA
+[2022.11.27-22.32.38:159][918]LogStaticMesh: Display: Building static mesh GOOMBA_CABEZA...
+[2022.11.27-22.32.38:897][918]LogStaticMesh: Built static mesh [0.74s] /Game/GOOMBA_CABEZA.GOOMBA_CABEZA
+[2022.11.27-22.32.39:336][918]LogFbx: Display: Triangulating static mesh DIENTE
+[2022.11.27-22.32.39:356][918]LogStaticMesh: Display: Building static mesh GOOMBA_DIENTE...
+[2022.11.27-22.32.39:363][918]LogStaticMesh: Built static mesh [0.01s] /Game/GOOMBA_DIENTE.GOOMBA_DIENTE
+[2022.11.27-22.32.39:383][918]LogMaterial: Display: Missing cached shadermap for CEJAS in PCD3D_SM5, Default, SM5 (DDC key hash: 51C20C794F6608E75F0D557703955EA30A1EB2DE), compiling. 
+[2022.11.27-22.32.39:389][918]LogFbx: Display: Triangulating static mesh CEJAS
+[2022.11.27-22.32.39:472][918]LogStaticMesh: Display: Building static mesh GOOMBA_CEJAS...
+[2022.11.27-22.32.39:518][918]LogStaticMesh: Built static mesh [0.05s] /Game/GOOMBA_CEJAS.GOOMBA_CEJAS
+[2022.11.27-22.32.39:546][918]LogFbx: Display: Triangulating static mesh pupila
+[2022.11.27-22.32.39:582][918]LogStaticMesh: Display: Building static mesh GOOMBA_pupila...
+[2022.11.27-22.32.39:595][918]LogStaticMesh: Built static mesh [0.01s] /Game/GOOMBA_pupila.GOOMBA_pupila
+[2022.11.27-22.32.39:611][918]LogFbx: Display: Triangulating static mesh brillo ojo
+[2022.11.27-22.32.39:618][918]LogStaticMesh: Display: Building static mesh GOOMBA_brillo_ojo...
+[2022.11.27-22.32.39:621][918]LogStaticMesh: Built static mesh [0.00s] /Game/GOOMBA_brillo_ojo.GOOMBA_brillo_ojo
+[2022.11.27-22.32.39:635][918]LogFbx: Display: Triangulating static mesh DIENTE.001
+[2022.11.27-22.32.39:657][918]LogStaticMesh: Display: Building static mesh GOOMBA_DIENTE_001...
+[2022.11.27-22.32.39:665][918]LogStaticMesh: Built static mesh [0.01s] /Game/GOOMBA_DIENTE_001.GOOMBA_DIENTE_001
+[2022.11.27-22.32.39:680][918]LogFbx: Display: Triangulating static mesh pupila.001
+[2022.11.27-22.32.39:711][918]LogStaticMesh: Display: Building static mesh GOOMBA_pupila_001...
+[2022.11.27-22.32.39:723][918]LogStaticMesh: Built static mesh [0.01s] /Game/GOOMBA_pupila_001.GOOMBA_pupila_001
+[2022.11.27-22.32.39:737][918]LogFbx: Display: Triangulating static mesh brillo ojo.001
+[2022.11.27-22.32.39:742][918]LogStaticMesh: Display: Building static mesh GOOMBA_brillo_ojo_001...
+[2022.11.27-22.32.39:745][918]LogStaticMesh: Built static mesh [0.00s] /Game/GOOMBA_brillo_ojo_001.GOOMBA_brillo_ojo_001
+[2022.11.27-22.32.39:782][918]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/GOOMBA_CABEZA) ...
+[2022.11.27-22.32.39:972][918]LogStaticMesh: Display: Building static mesh GOOMBA_pupila...
+[2022.11.27-22.32.39:972][918]LogStaticMesh: Built static mesh [0.01s] /Game/GOOMBA_pupila.GOOMBA_pupila
+[2022.11.27-22.32.39:994][918]LogStaticMesh: Display: Building static mesh GOOMBA_pupila_001...
+[2022.11.27-22.32.39:994][918]LogStaticMesh: Built static mesh [0.01s] /Game/GOOMBA_pupila_001.GOOMBA_pupila_001
+[2022.11.27-22.32.39:998][918]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: ================================================
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Total job queries 490, among them cache hits 153 (31.22%)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Tracking 322 distinct input hashes that result in 160 distinct outputs (49.69%)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: RAM used: 0.73 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Shaders Compiled: 187
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Jobs assigned 325, completed 322 (99.08%)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Average time worker was idle: 161.06 s
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Time job spent in pending queue: average 5.95 s, longest 33.64 s
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Job execution time: average 7.20 s, max 36.86 s
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Job life time (pending + execution): average 13.19 s, max 36.91
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 164.53 s
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Jobs were issued in 277 batches (only local compilation was used), average 1.17 jobs/batch
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Average processing rate: 1.96 jobs/sec
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Effective parallelization: 5.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    6 times, average 7.90 sec, max 9.24 sec, min 5.84 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 7.77 sec, max 9.32 sec, min 5.92 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 7.57 sec, max 9.16 sec, min 5.52 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    6 times, average 7.34 sec, max 9.21 sec, min 5.76 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 7.19 sec, max 8.35 sec, min 5.88 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 14.75% of total time (compiled   22 times, average 6.30 sec, max 8.46 sec, min 2.42 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.90% of total time (compiled   10 times, average 6.48 sec, max 10.01 sec, min 3.06 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.33% of total time (compiled    9 times, average 6.61 sec, max 9.43 sec, min 3.15 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.30% of total time (compiled   28 times, average 1.78 sec, max 2.62 sec, min 0.81 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 5.05% of total time (compiled    6 times, average 7.90 sec, max 9.24 sec, min 5.84 sec)
+[2022.11.27-22.32.52:923][877]LogShaderCompilers: Display: ================================================
+[2022.11.27-22.32.58:300][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GOOMBA_brillo_ojo.GOOMBA_brillo_ojo
+[2022.11.27-22.32.58:300][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GOOMBA_brillo_ojo.GOOMBA_brillo_ojo
+[2022.11.27-22.32.58:300][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/GOOMBA_brillo_ojo.GOOMBA_brillo_ojo as actor: StaticMeshActor /Game/Level2.Level2:PersistentLevel.StaticMeshActor_0
+[2022.11.27-22.32.58:750][475]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GOOMBA_brillo_ojo.GOOMBA_brillo_ojo
+[2022.11.27-22.32.58:750][475]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GOOMBA_brillo_ojo.GOOMBA_brillo_ojo
+[2022.11.27-22.32.58:750][475]LogActorFactory: Actor Factory spawned StaticMesh /Game/GOOMBA_brillo_ojo.GOOMBA_brillo_ojo as actor: StaticMeshActor /Game/Level2.Level2:PersistentLevel.StaticMeshActor_2
+[2022.11.27-22.33.00:495][659]Cmd: TRANSACTION UNDO
+[2022.11.27-22.33.00:495][659]LogEditorTransaction: Undo Create Actors
+[2022.11.27-22.33.18:541][384]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.27-22.33.18:551][384]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.27-22.33.18:557][384]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.27-22.33.18:568][385]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.27-22.33.20:106][549]LogContentBrowser: Attempting asset rename: NewBlueprint -> Goomba
+[2022.11.27-22.33.20:110][549]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.27-22.33.23:489][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GOOMBA.Goomba
+[2022.11.27-22.33.23:490][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.33.23:845][928]LogViewport: Scene viewport resized to 988x589, mode Windowed.
+[2022.11.27-22.33.29:564][429]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-22.33.31:715][646]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-22.33.42:550][564]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2022.11.27-22.34.10:181][685]BlueprintLog: New page: Compile Goomba
+[2022.11.27-22.34.10:219][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.27-22.34.11:064][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GOOMBA" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GOOMBA.uasset" SILENT=true
+[2022.11.27-22.34.11:067][742]LogSavePackage: Moving output files for package: /Game/GOOMBA
+[2022.11.27-22.34.11:067][742]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GOOMBA11229E2A41D43B7FF4229F89599F6FF5.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GOOMBA.uasset'
+[2022.11.27-22.34.11:089][742]AssetCheck: New page: Asset Save: Goomba
+[2022.11.27-22.34.11:089][742]LogContentValidation: Display: Validating Blueprint /Game/GOOMBA.Goomba
+[2022.11.27-22.34.39:421][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GOOMBA" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GOOMBA.uasset" SILENT=true
+[2022.11.27-22.34.39:425][ 36]LogSavePackage: Moving output files for package: /Game/GOOMBA
+[2022.11.27-22.34.39:426][ 36]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GOOMBAB8FC68BD4117714840236FB9BF6B7024.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GOOMBA.uasset'
+[2022.11.27-22.34.39:439][ 36]AssetCheck: New page: Asset Save: Goomba
+[2022.11.27-22.34.39:439][ 36]LogContentValidation: Display: Validating Blueprint /Game/GOOMBA.Goomba
+[2022.11.27-22.34.40:546][127]BlueprintLog: New page: Compile Goomba
+[2022.11.27-22.34.40:586][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.27-22.34.41:704][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GOOMBA" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GOOMBA.uasset" SILENT=true
+[2022.11.27-22.34.41:708][205]LogSavePackage: Moving output files for package: /Game/GOOMBA
+[2022.11.27-22.34.41:708][205]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GOOMBA1376AFD141D9D5ED583853947E901EDF.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GOOMBA.uasset'
+[2022.11.27-22.34.41:720][205]AssetCheck: New page: Asset Save: Goomba
+[2022.11.27-22.34.41:720][205]LogContentValidation: Display: Validating Blueprint /Game/GOOMBA.Goomba
+[2022.11.27-22.34.57:048][432]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2022.11.27-22.35.48:430][211]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.27-22.35.48:840][218]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.27-22.35.49:143][230]LogEditorTransaction: Undo Make New Scene Root
+[2022.11.27-22.35.49:980][295]LogEditorTransaction: Undo Attach Component
+[2022.11.27-22.35.50:752][355]LogEditorTransaction: Undo Modify Component Scale
+[2022.11.27-22.36.00:189][933]BlueprintLog: New page: Compile Goomba
+[2022.11.27-22.36.00:251][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.27-22.36.01:257][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GOOMBA" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GOOMBA.uasset" SILENT=true
+[2022.11.27-22.36.01:261][  5]LogSavePackage: Moving output files for package: /Game/GOOMBA
+[2022.11.27-22.36.01:262][  5]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GOOMBA0FE5036041ED067FDC9E52A4D5432A95.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GOOMBA.uasset'
+[2022.11.27-22.36.01:274][  5]AssetCheck: New page: Asset Save: Goomba
+[2022.11.27-22.36.01:274][  5]LogContentValidation: Display: Validating Blueprint /Game/GOOMBA.Goomba
+[2022.11.27-22.36.02:983][130]LogSlate: Window 'Goomba' being destroyed
+[2022.11.27-22.36.03:021][130]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.36.03:021][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.36.06:338][480]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GOOMBA.Goomba_C
+[2022.11.27-22.36.06:338][480]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GOOMBA.Goomba_C
+[2022.11.27-22.36.06:341][480]LogActorFactory: Actor Factory spawned Blueprint /Game/GOOMBA.Goomba as actor: Goomba_C /Game/Level2.Level2:PersistentLevel.Goomba_C_0
+[2022.11.27-22.36.06:346][480]LogActorFactory: Actor Factory spawned Blueprint /Game/GOOMBA.Goomba as actor: Goomba_C /Game/Level2.Level2:PersistentLevel.Goomba_C_0
+[2022.11.27-22.36.07:009][503]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GOOMBA.Goomba_C
+[2022.11.27-22.36.07:009][503]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GOOMBA.Goomba_C
+[2022.11.27-22.36.07:023][503]LogActorFactory: Actor Factory spawned Blueprint /Game/GOOMBA.Goomba as actor: Goomba_C /Game/Level2.Level2:PersistentLevel.Goomba_C_1
+[2022.11.27-22.36.07:050][503]LogActorFactory: Actor Factory spawned Blueprint /Game/GOOMBA.Goomba as actor: Goomba_C /Game/Level2.Level2:PersistentLevel.Goomba_C_1
+[2022.11.27-22.36.09:109][569]LogShaderCompilers: Display: ================================================
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Total job queries 505, among them cache hits 153 (30.30%)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Tracking 334 distinct input hashes that result in 162 distinct outputs (48.50%)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: RAM used: 0.74 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Shaders Compiled: 187
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Jobs assigned 340, completed 334 (98.24%)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Average time worker was idle: 157.92 s
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Time job spent in pending queue: average 5.69 s, longest 33.64 s
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Job execution time: average 7.12 s, max 36.86 s
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Job life time (pending + execution): average 12.91 s, max 36.91
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 177.20 s
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Jobs were issued in 292 batches (only local compilation was used), average 1.16 jobs/batch
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Average processing rate: 1.88 jobs/sec
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Effective parallelization: 5.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    6 times, average 7.90 sec, max 9.24 sec, min 5.84 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 7.77 sec, max 9.32 sec, min 5.92 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 7.57 sec, max 9.16 sec, min 5.52 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    6 times, average 7.34 sec, max 9.21 sec, min 5.76 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 7.19 sec, max 8.35 sec, min 5.88 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 15.77% of total time (compiled   25 times, average 6.29 sec, max 8.46 sec, min 2.42 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.25% of total time (compiled   14 times, average 5.17 sec, max 8.86 sec, min 0.67 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.49% of total time (compiled   10 times, average 6.48 sec, max 10.01 sec, min 3.06 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.23% of total time (compiled   10 times, average 6.22 sec, max 9.43 sec, min 2.68 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.99% of total time (compiled   28 times, average 1.78 sec, max 2.62 sec, min 0.81 sec)
+[2022.11.27-22.36.09:110][569]LogShaderCompilers: Display: ================================================
+[2022.11.27-22.36.24:929][154]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-22.36.24:934][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-22.36.24:934][154]PIE: New page: PIE session: Level2 (Nov 27, 2022, 8:36:24 AM)
+[2022.11.27-22.36.24:971][154]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level2
+[2022.11.27-22.36.24:977][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006424s)
+[2022.11.27-22.36.24:977][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level2.Level2 to /Game/UEDPIE_0_Level2.Level2 (0.006518s)
+[2022.11.27-22.36.24:978][154]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-22.36.24:978][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.36.24:978][154]LogAIModule: Creating AISystem for world Level2
+[2022.11.27-22.36.24:978][154]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2022.11.27-22.36.25:003][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.27-22.36.25:023][154]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.11.27-22.36.25:023][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-22.36.25:024][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-22.36.25:024][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-22.36.25:024][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-22.36.25:024][154]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-22.36.25:024][154]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-22.36.25:024][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-22.36.25:024][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-22.36.25:024][154]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-22.36.25:024][154]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-22.36.25:024][154]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-22.36.25:026][154]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-22.36.25:052][154]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.27-22.36.25:053][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-22.36.25:053][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-22.36.25:053][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-22.36.25:053][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.11.27-22.36.25:053][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.11.27-22.36.25:055][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.11.27-22.36.25:055][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.11.27-22.36.25:055][154]LogInit: FAudioDevice initialized.
+[2022.11.27-22.36.25:055][154]LogAudio: Display: Audio Device (ID: 29) registered with world 'Level2'.
+[2022.11.27-22.36.25:066][154]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.27-22.36.25:068][154]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.11.27-15.36.25
+[2022.11.27-22.36.25:068][154]LogWorld: Bringing up level for play took: 0.001475
+[2022.11.27-22.36.25:069][154]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2022.11.27-22.36.25:070][154]PIE: Server logged in
+[2022.11.27-22.36.25:071][154]PIE: Play in editor total start time 0.137 seconds.
+[2022.11.27-22.36.25:085][154]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-22.36.58:332][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-22.36.58:332][137]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level2
+[2022.11.27-22.36.58:332][137]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.36.58:333][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.36.58:345][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-22.36.58:349][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.36.58:365][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-22.36.58:365][137]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-22.36.58:365][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.11.27-22.36.58:367][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.11.27-22.36.58:394][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-22.36.58:397][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.27-22.36.58:436][138]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.11.27-22.36.59:202][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.27-22.36.59:234][218]LogSavePackage: Moving output files for package: /Game/Level2
+[2022.11.27-22.36.59:235][218]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level28DEF84A045A39DB6368AF48652105576.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Level2.umap'
+[2022.11.27-22.36.59:244][218]LogFileHelpers: No new changes to save!
+[2022.11.27-22.36.59:257][218]AssetCheck: New page: Asset Save: Level2
+[2022.11.27-22.36.59:257][218]LogContentValidation: Display: Validating World /Game/Level2.Level2
