@@ -8551,3 +8551,10 @@ Recommended: 516.25
 [2022.11.28-22.35.17:386][521]LogFileHelpers: No new changes to save!
 [2022.11.28-22.35.17:398][521]AssetCheck: New page: Asset Save: BasicLevelVR
 [2022.11.28-22.35.17:398][521]LogContentValidation: Display: Validating World /Game/Maps/BasicLevelVR.BasicLevelVR
+[2022.11.28-22.37.13:078][210]BlueprintLog: New page: Compile MyVRPawn
+[2022.11.28-22.37.13:175][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.28-22.37.16:540][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyVRPawn" FILE="../../../../../../Users/rrebecca/Desktop/AlbinR_DobynsJ/DobynsAlbin/Content/Blueprints/MyVRPawn.uasset" SILENT=true
+[2022.11.28-22.37.16:560][424]LogSavePackage: Moving output files for package: /Game/Blueprints/MyVRPawn
+[2022.11.28-22.37.16:561][424]LogSavePackage: Moving '../../../../../../Users/rrebecca/Desktop/AlbinR_DobynsJ/DobynsAlbin/Saved/MyVRPawn86B255F848B777F4254F1996ABCA55B3.tmp' to '../../../../../../Users/rrebecca/Desktop/AlbinR_DobynsJ/DobynsAlbin/Content/Blueprints/MyVRPawn.uasset'
+[2022.11.28-22.37.16:579][424]AssetCheck: New page: Asset Save: MyVRPawn
+[2022.11.28-22.37.16:579][424]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MyVRPawn.MyVRPawn
