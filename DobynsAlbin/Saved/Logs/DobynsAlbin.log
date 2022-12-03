@@ -2153,3 +2153,166 @@ An asset already exists at the import location: /Game/PawnsAssets/Coin
 [2022.12.03-23.46.21:900][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2022.12.03-23.46.21:912][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
 [2022.12.03-23.46.21:958][238]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.12.03-23.46.44:891][513]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.12.03-23.46.47:053][588]LogSlate: Window 'SMO_Coin_SHD_Mat' being destroyed
+[2022.12.03-23.46.47:062][588]LogSlate: Window 'SMO_Coin_SHD_Mat' being destroyed
+[2022.12.03-23.46.47:075][588]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.03-23.46.47:075][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-23.46.47:234][588]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.03-23.46.47:234][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-23.46.55:301][994]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.03-23.46.55:315][994]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.03-23.46.55:332][995]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.03-23.46.56:634][109]LogContentBrowser: Attempting asset rename: NewFolder -> Coin
+[2022.12.03-23.46.56:634][109]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.03-23.47.12:304][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin.Coin' ref from Metadata '/Game/PawnsAssets/Coin.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.Coin_BP_C' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.Coin_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.Coin_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.Coin_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.Coin_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.SKEL_Coin_BP_C' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.SKEL_Coin_BP_C:UserConstructionScript' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.SKEL_Coin_BP_C:ReceiveTick' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.SKEL_Coin_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:309][381]LogMetaData: Removing '/Game/PawnsAssets/Coin/Coin_BP.SKEL_Coin_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/PawnsAssets/Coin_BP.PackageMetaData'
+[2022.12.03-23.47.12:401][381]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Coin/Coin
+[2022.12.03-23.47.12:401][381]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Coin0787FE02476DB609C4EF72BCE9FE1935.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Coin/Coin.uasset'
+[2022.12.03-23.47.12:405][381]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Coin/Coin_BP
+[2022.12.03-23.47.12:405][381]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Coin_BP6C00D801436EE8F0D07A93B821F766C9.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Coin/Coin_BP.uasset'
+[2022.12.03-23.47.12:408][381]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Coin_BP
+[2022.12.03-23.47.12:409][381]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Coin_BP1B522D744D43935235638F9D49B6DD04.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Coin_BP.uasset'
+[2022.12.03-23.47.12:416][381]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Coin/coinbody00_alb
+[2022.12.03-23.47.12:416][381]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/coinbody00_alb8DEFCF77403AC9048E9416B5D38587B6.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Coin/coinbody00_alb.uasset'
+[2022.12.03-23.47.12:429][381]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Coin/coinbody00_nrm
+[2022.12.03-23.47.12:429][381]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/coinbody00_nrm3B9C6DA342F17954CCD634B51F1CEBE2.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Coin/coinbody00_nrm.uasset'
+[2022.12.03-23.47.12:434][381]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Coin/coinbody00_rgh
+[2022.12.03-23.47.12:435][381]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/coinbody00_rghE9F9D5B341FCC00367C16794C3C2EFFD.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Coin/coinbody00_rgh.uasset'
+[2022.12.03-23.47.12:437][381]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Coin/SMO_Coin_SHD_Mat
+[2022.12.03-23.47.12:437][381]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/SMO_Coin_SHD_Mat306FD5AF45CBEE242D59D7B8493D4344.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Coin/SMO_Coin_SHD_Mat.uasset'
+[2022.12.03-23.47.12:595][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.03-23.47.12:671][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.12.03-23.47.12:702][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.12.03-23.47.12:737][381]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating Material /Game/PawnsAssets/Coin/SMO_Coin_SHD_Mat.SMO_Coin_SHD_Mat
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating Blueprint /Game/PawnsAssets/Coin/Coin_BP.Coin_BP
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating ObjectRedirector /Game/PawnsAssets/Coin_BP.Coin_BP
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating ObjectRedirector /Game/PawnsAssets/Coin_BP.Default__Coin_BP_C
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating ObjectRedirector /Game/PawnsAssets/Coin_BP.Coin_BP_C
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating StaticMesh /Game/PawnsAssets/Coin/Coin.Coin
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating Texture2D /Game/PawnsAssets/Coin/coinbody00_alb.coinbody00_alb
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating Texture2D /Game/PawnsAssets/Coin/coinbody00_nrm.coinbody00_nrm
+[2022.12.03-23.47.12:737][381]LogContentValidation: Display: Validating Texture2D /Game/PawnsAssets/Coin/coinbody00_rgh.coinbody00_rgh
+[2022.12.03-23.47.15:006][519]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.03-23.47.15:006][519]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.03-23.47.15:133][524]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.03-23.47.15:133][524]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.03-23.47.15:621][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.12.03-23.47.19:771][551]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.03-23.47.19:874][551]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PawnsAssets/coinMat.coinMat
+	Asset Type: Material
+[2022.12.03-23.47.20:291][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.12.03-23.47.20:315][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.03-23.47.20:338][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.12.03-23.47.36:709][149]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.03-23.47.36:709][149]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.03-23.47.36:713][149]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar as actor: BP_GrandStar_C /Game/Maps/Level2.Level2:PersistentLevel.BP_GrandStar_C_0
+[2022.12.03-23.47.36:718][149]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar as actor: BP_GrandStar_C /Game/Maps/Level2.Level2:PersistentLevel.BP_GrandStar_C_0
+[2022.12.03-23.47.37:371][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.03-23.47.37:372][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.03-23.47.37:380][151]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar as actor: BP_GrandStar_C /Game/Maps/Level2.Level2:PersistentLevel.BP_GrandStar_C_1
+[2022.12.03-23.47.37:387][151]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar as actor: BP_GrandStar_C /Game/Maps/Level2.Level2:PersistentLevel.BP_GrandStar_C_1
+[2022.12.03-23.47.40:895][289]Cmd: TRANSACTION UNDO
+[2022.12.03-23.47.40:895][289]LogEditorTransaction: Undo Create Actors
+[2022.12.03-23.47.45:462][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FinishLine.FinishLine
+[2022.12.03-23.47.45:463][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.03-23.47.49:309][656]LogViewport: Scene viewport resized to 957x722, mode Windowed.
+[2022.12.03-23.48.48:158][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar
+[2022.12.03-23.48.48:159][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.03-23.49.14:343][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.12.03-23.49.14:404][849]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level2_Auto4
+[2022.12.03-23.49.14:404][849]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level2_Auto495B8FCAB491349367848E085C8214277.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Maps/Level2_Auto4.umap'
+[2022.12.03-23.49.14:413][849]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level2' took 0.104
+[2022.12.03-23.49.14:413][849]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.104
+[2022.12.03-23.49.14:414][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PawnsAssets/Coin/Coin] ([1] browsable assets)...
+[2022.12.03-23.49.14:423][849]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/PawnsAssets/Coin/Coin.Coin]
+[2022.12.03-23.49.14:423][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/PawnsAssets/Coin/Coin]
+[2022.12.03-23.49.14:426][849]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PawnsAssets/Coin/Coin_Auto4
+[2022.12.03-23.49.14:426][849]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Coin_Auto419136B9749BD74A7C09602A278610FF6.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/PawnsAssets/Coin/Coin_Auto4.uasset'
+[2022.12.03-23.49.14:427][849]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.12.03-23.49.29:986][961]LogViewport: Scene viewport resized to 957x723, mode Windowed.
+[2022.12.03-23.50.34:080][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/Goomba.Goomba
+[2022.12.03-23.50.34:080][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.03-23.52.06:690][274]LogSavePackage: Moving output files for package: /Game/PawnsAssets/BP_GrandStar
+[2022.12.03-23.52.06:692][274]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/BP_GrandStar54632A3D457518B88D49D19B666C0CAB.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/BP_GrandStar.uasset'
+[2022.12.03-23.52.06:711][274]AssetCheck: New page: Asset Save: BP_GrandStar
+[2022.12.03-23.52.06:711][274]LogContentValidation: Display: Validating Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar
+[2022.12.03-23.52.19:504][387]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.03-23.52.19:504][387]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.03-23.52.19:506][387]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar as actor: BP_GrandStar_C /Game/Maps/Level2.Level2:PersistentLevel.BP_GrandStar_C_2
+[2022.12.03-23.52.19:508][387]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar as actor: BP_GrandStar_C /Game/Maps/Level2.Level2:PersistentLevel.BP_GrandStar_C_2
+[2022.12.03-23.52.22:584][557]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.03-23.52.22:584][557]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.03-23.52.22:588][557]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar as actor: BP_GrandStar_C /Game/Maps/Level2.Level2:PersistentLevel.BP_GrandStar_C_3
+[2022.12.03-23.52.22:591][557]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/BP_GrandStar.BP_GrandStar as actor: BP_GrandStar_C /Game/Maps/Level2.Level2:PersistentLevel.BP_GrandStar_C_3
+[2022.12.03-23.52.24:899][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.03-23.52.24:916][772]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.03-23.52.24:917][772]LogPlayLevel: [PlayLevel] Compiling BP_GrandStar before play...
+[2022.12.03-23.52.25:020][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.12.03-23.52.25:024][772]LogPlayLevel: PlayLevel: Blueprint regeneration took 107 ms (1 blueprints)
+[2022.12.03-23.52.25:024][772]PIE: New page: PIE session: Level2 (Dec 3, 2022, 9:52:25 AM)
+[2022.12.03-23.52.25:062][772]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level2
+[2022.12.03-23.52.25:076][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014019s)
+[2022.12.03-23.52.25:076][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2.Level2 to /Game/Maps/UEDPIE_0_Level2.Level2 (0.014279s)
+[2022.12.03-23.52.25:076][772]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.03-23.52.25:076][772]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.03-23.52.25:077][772]LogAIModule: Creating AISystem for world Level2
+[2022.12.03-23.52.25:077][772]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2022.12.03-23.52.25:117][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.12.03-23.52.25:118][772]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.03-23.52.25:118][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.03-23.52.25:118][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.03-23.52.25:118][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.03-23.52.25:118][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.03-23.52.25:118][772]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.03-23.52.25:118][772]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.03-23.52.25:118][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.03-23.52.25:118][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.03-23.52.25:119][772]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.03-23.52.25:119][772]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.03-23.52.25:119][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.03-23.52.25:121][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.03-23.52.25:169][772]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.03-23.52.25:169][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.03-23.52.25:169][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.03-23.52.25:169][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.03-23.52.25:171][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.03-23.52.25:171][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.03-23.52.25:172][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.03-23.52.25:172][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.03-23.52.25:172][772]LogInit: FAudioDevice initialized.
+[2022.12.03-23.52.25:172][772]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level2'.
+[2022.12.03-23.52.25:189][772]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.03-23.52.25:192][772]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.12.03-16.52.25
+[2022.12.03-23.52.25:192][772]LogWorld: Bringing up level for play took: 0.002743
+[2022.12.03-23.52.25:195][772]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.12.03-23.52.25:197][772]PIE: Server logged in
+[2022.12.03-23.52.25:197][772]PIE: Play in editor total start time 0.287 seconds.
+[2022.12.03-23.52.25:209][772]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.03-23.52.28:573][134]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.03-23.52.28:573][134]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.03-23.52.28:573][134]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.03-23.52.28:574][134]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.03-23.52.32:242][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.03-23.52.32:243][549]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level2
+[2022.12.03-23.52.32:243][549]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.12.03-23.52.32:245][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-23.52.32:265][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.03-23.52.32:269][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-23.52.32:307][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.03-23.52.32:308][549]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.03-23.52.32:308][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.03-23.52.32:310][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.03-23.52.32:327][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.03-23.52.32:356][550]LogPlayLevel: Display: Destroying online subsystem :Context_21
