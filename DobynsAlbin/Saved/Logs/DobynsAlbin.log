@@ -2317,3 +2317,495 @@ Make sure 'LevelSelectMenu_C' has been compiled for  Set As Third Person Charact
 [2022.12.04-16.16.41:746][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.04-16.16.41:751][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2022.12.04-16.16.41:785][455]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.12.04-16.17.08:097][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.12.04-16.17.08:156][687]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto3
+[2022.12.04-16.17.08:156][687]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level1_Auto32C1C8D54465DA2D2C9D1AAA0857618DF.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Maps/Level1_Auto3.umap'
+[2022.12.04-16.17.08:165][687]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.130
+[2022.12.04-16.17.08:165][687]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.130
+[2022.12.04-16.17.08:165][687]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fantastic_Village_Pack/materials/MI_landscape] ([1] browsable assets)...
+[2022.12.04-16.17.08:205][687]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fantastic_Village_Pack/materials/MI_landscape.MI_landscape]
+[2022.12.04-16.17.08:205][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/materials/MI_landscape]
+[2022.12.04-16.17.08:261][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.04-16.17.08:320][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.04-16.17.08:323][687]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/materials/MI_landscape_Auto3
+[2022.12.04-16.17.08:325][687]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MI_landscape_Auto3994FAE89488B698A5A0C7DADDC6334EB.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Fantastic_Village_Pack/materials/MI_landscape_Auto3.uasset'
+[2022.12.04-16.17.08:325][687]LogFileHelpers: Auto-saving content packages took 0.160
+[2022.12.04-16.20.21:269][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/Goomba.Goomba
+[2022.12.04-16.20.21:270][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.20.47:178][878]LogViewport: Scene viewport resized to 1323x981, mode Windowed.
+[2022.12.04-16.26.06:297][341]BlueprintLog: New page: Compile Goomba
+[2022.12.04-16.26.06:303][341]LogBlueprint: Warning: [AssetLog] C:\Users\jdobyns\OneDrive - Colostate\Documents\Unreal Projects\AlbinR_DobynsJ\DobynsAlbin\Content\PawnsAssets\Enemies\GoombaAssets\Goomba.uasset: [Compiler] Cast To ThirdPersonCharacter  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.12.04-16.26.06:566][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.12.04-16.26.07:284][376]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Enemies/GoombaAssets/Goomba
+[2022.12.04-16.26.07:286][376]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GoombaEBD43E6946A4F1C13E2CA7A012F80ED3.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Enemies/GoombaAssets/Goomba.uasset'
+[2022.12.04-16.26.07:306][376]AssetCheck: New page: Asset Save: Goomba
+[2022.12.04-16.26.07:306][376]LogContentValidation: Display: Validating Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/Goomba.Goomba
+[2022.12.04-16.26.10:860][690]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-16.26.10:885][691]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.12.04-16.26.15:873][ 52]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-16.26.15:887][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-16.26.15:887][ 52]PIE: New page: PIE session: Level1 (Dec 4, 2022, 2:26:15 AM)
+[2022.12.04-16.26.15:887][ 52]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.26.15:907][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019886s)
+[2022.12.04-16.26.15:907][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.019991s)
+[2022.12.04-16.26.15:907][ 52]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.26.15:907][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.26.15:908][ 52]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.26.15:908][ 52]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2022.12.04-16.26.16:003][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.12.04-16.26.16:006][ 52]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.12.04-16.26.16:006][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-16.26.16:006][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-16.26.16:006][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-16.26.16:006][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-16.26.16:006][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-16.26.16:006][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-16.26.16:006][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-16.26.16:006][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-16.26.16:006][ 52]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-16.26.16:006][ 52]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-16.26.16:006][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-16.26.16:009][ 52]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-16.26.16:061][ 52]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-16.26.16:062][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-16.26.16:062][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-16.26.16:062][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-16.26.16:063][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.12.04-16.26.16:063][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.12.04-16.26.16:065][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.12.04-16.26.16:065][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.12.04-16.26.16:065][ 52]LogInit: FAudioDevice initialized.
+[2022.12.04-16.26.16:065][ 52]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level1'.
+[2022.12.04-16.26.16:081][ 52]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.26.16:087][ 52]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.26.16
+[2022.12.04-16.26.16:087][ 52]LogWorld: Bringing up level for play took: 0.005861
+[2022.12.04-16.26.16:090][ 52]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2022.12.04-16.26.16:092][ 52]PIE: Server logged in
+[2022.12.04-16.26.16:093][ 52]PIE: Play in editor total start time 0.209 seconds.
+[2022.12.04-16.26.16:116][ 52]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-16.26.30:554][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.26.30:554][759]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.26.30:554][759]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.26.30:555][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.26.30:572][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-16.26.30:582][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.26.30:671][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.26.30:672][759]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-16.26.30:672][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.12.04-16.26.30:674][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.12.04-16.26.30:681][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.26.30:686][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.12.04-16.26.30:780][760]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.12.04-16.26.30:833][760]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.12.04-16.26.30:873][760]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-16.27.50:389][ 53]Cmd: DELETE
+[2022.12.04-16.27.50:389][ 53]Cmd: ACTOR DELETE
+[2022.12.04-16.27.50:406][ 53]LogEditorActor: Deleted Actor: Goomba_C
+[2022.12.04-16.27.50:500][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.12.04-16.27.50:502][ 53]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2022.12.04-16.27.51:182][116]Cmd: DELETE
+[2022.12.04-16.27.51:182][116]Cmd: ACTOR DELETE
+[2022.12.04-16.27.51:197][116]LogEditorActor: Deleted Actor: Goomba_C
+[2022.12.04-16.27.51:285][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.04-16.27.51:288][116]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2022.12.04-16.27.51:473][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.04-16.27.51:556][116]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto4
+[2022.12.04-16.27.51:556][116]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level1_Auto4113F8C5E4D6F725F5E30ADA5F7F2A66B.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Maps/Level1_Auto4.umap'
+[2022.12.04-16.27.51:568][116]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.174
+[2022.12.04-16.27.51:568][116]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.174
+[2022.12.04-16.28.18:667][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.04-16.28.18:755][798]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.12.04-16.28.18:757][798]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level17DAFC1B341E73E1D968EDC8982DA0492.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Maps/Level1.umap'
+[2022.12.04-16.28.18:801][798]LogFileHelpers: No new changes to save!
+[2022.12.04-16.28.18:823][798]AssetCheck: New page: Asset Save: Level1
+[2022.12.04-16.28.18:823][798]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.12.04-16.28.36:807][243]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.04-16.28.36:807][243]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.04-16.28.36:808][243]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Maps/Level1.Level1:PersistentLevel.NavMeshBoundsVolume_0
+[2022.12.04-16.28.36:811][243]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Maps/Level1.Level1:PersistentLevel.NavMeshBoundsVolume_0
+[2022.12.04-16.28.36:933][244]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.06:566][578]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.08:156][748]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.09:493][887]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.11:531][ 76]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.11:578][ 79]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.11:783][ 83]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.12:917][180]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.14:223][298]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.14:252][300]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.17:929][651]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.17:968][654]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.20:188][875]Cmd: TRANSACTION UNDO
+[2022.12.04-16.29.20:188][875]LogEditorTransaction: Undo Set Scale
+[2022.12.04-16.29.20:223][875]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 1C50B3393C1B58C5F7FF3D7C7A153A31F469B5ED), compiling. 
+[2022.12.04-16.29.20:356][875]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.29.20:356][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.29.20:356][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.29.20:356][875]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.29.20:406][876]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: Total job queries 187, among them cache hits 105 (56.15%)
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 35 distinct outputs (48.61%)
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: Shaders Compiled: 42
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: Jobs assigned 72, completed 72 (100.00%)
+[2022.12.04-16.29.20:443][877]LogShaderCompilers: Display: Average time worker was idle: 9.10 s
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Time job spent in pending queue: average 3.62 s, longest 16.77 s
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Job execution time: average 3.89 s, max 11.27 s
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Job life time (pending + execution): average 7.51 s, max 22.56
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.88 s
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Effective parallelization: 3.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 8.81 sec, max 8.81 sec, min 8.81 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 8.72 sec, max 8.72 sec, min 8.72 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 8.64 sec, max 8.64 sec, min 8.64 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 8.63 sec, max 8.63 sec, min 8.63 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 8.56 sec, max 8.56 sec, min 8.56 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 40.58% of total time (compiled   12 times, average 7.16 sec, max 11.02 sec, min 4.07 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.27% of total time (compiled   18 times, average 1.92 sec, max 3.28 sec, min 1.16 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.17% of total time (compiled    7 times, average 2.17 sec, max 8.37 sec, min 0.95 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 6.16% of total time (compiled    6 times, average 2.18 sec, max 2.35 sec, min 1.97 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.16% of total time (compiled    1 times, average 8.81 sec, max 8.81 sec, min 8.81 sec)
+[2022.12.04-16.29.20:444][877]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.29.20:509][878]MaterialEditorStats: Texture samplers: 9/16
+[2022.12.04-16.29.20:510][878]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.29.20:510][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.29.20:510][878]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.29.20:966][894]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.22:120][995]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.23:079][ 71]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.24:426][194]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.24:470][196]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.32:085][939]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.32:120][942]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.35:380][287]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.38:715][636]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.29.41:131][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.12.04-16.29.41:220][874]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.12.04-16.29.41:222][874]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level1D9C4A1CF405E197219CCCC9B718C5499.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Maps/Level1.umap'
+[2022.12.04-16.29.41:239][874]LogFileHelpers: No new changes to save!
+[2022.12.04-16.29.41:259][874]AssetCheck: New page: Asset Save: Level1
+[2022.12.04-16.29.41:259][874]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.12.04-16.30.05:083][384]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.30.08:097][709]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.30.38:332][ 46]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-16.30.38:357][ 47]LogViewport: Scene viewport resized to 643x398, mode Windowed.
+[2022.12.04-16.30.52:240][232]Cmd: TRANSACTION UNDO
+[2022.12.04-16.30.52:240][232]LogEditorTransaction: Undo Move Elements
+[2022.12.04-16.30.52:257][232]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 2EBDDFFBF54B3B497C893E6F341902E20EC8A125), compiling. 
+[2022.12.04-16.30.52:403][232]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.30.52:403][232]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.30.52:403][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.30.52:403][232]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.30.52:603][235]MaterialEditorStats: Texture samplers: 9/16
+[2022.12.04-16.30.52:603][235]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.30.52:603][235]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.30.52:603][235]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.30.54:949][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-16.30.54:961][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-16.30.54:961][419]PIE: New page: PIE session: Level1 (Dec 4, 2022, 2:30:54 AM)
+[2022.12.04-16.30.54:983][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.30.55:001][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017777s)
+[2022.12.04-16.30.55:001][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.017904s)
+[2022.12.04-16.30.55:001][419]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.30.55:001][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.30.55:002][419]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.30.55:002][419]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2022.12.04-16.30.55:095][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.12.04-16.30.55:099][419]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.04-16.30.55:099][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-16.30.55:099][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-16.30.55:099][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-16.30.55:099][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-16.30.55:099][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-16.30.55:099][419]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-16.30.55:099][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-16.30.55:099][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-16.30.55:100][419]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-16.30.55:100][419]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-16.30.55:100][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-16.30.55:103][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-16.30.55:155][419]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-16.30.55:156][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-16.30.55:156][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-16.30.55:156][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-16.30.55:157][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.12.04-16.30.55:157][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.12.04-16.30.55:158][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.12.04-16.30.55:158][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.12.04-16.30.55:158][419]LogInit: FAudioDevice initialized.
+[2022.12.04-16.30.55:158][419]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level1'.
+[2022.12.04-16.30.55:174][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.30.55:179][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.30.55
+[2022.12.04-16.30.55:179][419]LogWorld: Bringing up level for play took: 0.004824
+[2022.12.04-16.30.55:181][419]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2022.12.04-16.30.55:184][419]PIE: Server logged in
+[2022.12.04-16.30.55:184][419]PIE: Play in editor total start time 0.224 seconds.
+[2022.12.04-16.30.55:207][419]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-16.31.15:364][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.31.15:364][768]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.31.15:365][768]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.31.15:366][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.31.15:384][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-16.31.15:392][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.31.15:479][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.31.15:479][768]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-16.31.15:479][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.04-16.31.15:482][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.04-16.31.15:521][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.31.15:527][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.12.04-16.31.15:581][769]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.12.04-16.39.16:855][549]LogDerivedDataCache: C:/Users/jdobyns/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.214 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-16.40.01:486][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.12.04-16.40.01:583][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto5
+[2022.12.04-16.40.01:583][118]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level1_Auto57302551F4603A50178004684C218E86E.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Maps/Level1_Auto5.umap'
+[2022.12.04-16.40.01:595][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.217
+[2022.12.04-16.40.01:596][118]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.217
+[2022.12.04-16.40.01:596][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fantastic_Village_Pack/materials/MI_landscape] ([1] browsable assets)...
+[2022.12.04-16.40.01:596][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fantastic_Village_Pack/materials/MI_landscape]
+[2022.12.04-16.40.01:685][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.12.04-16.40.01:772][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.12.04-16.40.01:777][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fantastic_Village_Pack/materials/MI_landscape_Auto5
+[2022.12.04-16.40.01:777][118]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MI_landscape_Auto5C1A9433643BDE1935B05AFA6B2BAE34A.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Fantastic_Village_Pack/materials/MI_landscape_Auto5.uasset'
+[2022.12.04-16.40.01:778][118]LogFileHelpers: Auto-saving content packages took 0.182
+[2022.12.04-16.43.14:444][187]LogViewport: Scene viewport resized to 1323x979, mode Windowed.
+[2022.12.04-16.44.54:925][866]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2022.12.04-16.44.54:925][866]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2022.12.04-16.44.54:926][866]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/Maps/Level1.Level1:PersistentLevel.Pawn_0
+[2022.12.04-16.44.54:926][866]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/Maps/Level1.Level1:PersistentLevel.Pawn_0
+[2022.12.04-16.45.14:925][551]Cmd: DELETE
+[2022.12.04-16.45.14:925][551]Cmd: ACTOR DELETE
+[2022.12.04-16.45.15:037][551]LogEditorActor: Deleted Actor: Pawn
+[2022.12.04-16.45.15:140][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.04-16.45.15:149][551]LogEditorActor: Deleted 1 Actors (0.224 secs)
+[2022.12.04-16.45.15:162][552]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.45.20:172][981]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2022.12.04-16.45.20:173][981]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/Maps/Level1.Level1:PersistentLevel.Goomba_C_2
+[2022.12.04-16.45.20:191][981]EditorErrors: New page: Actor Reattachment
+[2022.12.04-16.45.20:210][981]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.45.23:447][327]Cmd: TRANSACTION UNDO
+[2022.12.04-16.45.23:447][327]LogEditorTransaction: Undo Replace Actor(s)
+[2022.12.04-16.45.23:507][327]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: ABCEE729B01918DA6F5E55F0488C99BEFD6E6A19), compiling. 
+[2022.12.04-16.45.23:672][327]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.45.23:672][327]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.45.23:672][327]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.45.23:672][327]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Total job queries 191, among them cache hits 109 (57.07%)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 35 distinct outputs (48.61%)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Shaders Compiled: 42
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Jobs assigned 72, completed 72 (100.00%)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Average time worker was idle: 9.10 s
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Time job spent in pending queue: average 3.62 s, longest 16.77 s
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Job execution time: average 3.89 s, max 11.27 s
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Job life time (pending + execution): average 7.51 s, max 22.56
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.88 s
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Effective parallelization: 3.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 8.81 sec, max 8.81 sec, min 8.81 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 8.72 sec, max 8.72 sec, min 8.72 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 8.64 sec, max 8.64 sec, min 8.64 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 8.63 sec, max 8.63 sec, min 8.63 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 8.56 sec, max 8.56 sec, min 8.56 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 40.58% of total time (compiled   12 times, average 7.16 sec, max 11.02 sec, min 4.07 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.27% of total time (compiled   18 times, average 1.92 sec, max 3.28 sec, min 1.16 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.17% of total time (compiled    7 times, average 2.17 sec, max 8.37 sec, min 0.95 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 6.16% of total time (compiled    6 times, average 2.18 sec, max 2.35 sec, min 1.97 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.16% of total time (compiled    1 times, average 8.81 sec, max 8.81 sec, min 8.81 sec)
+[2022.12.04-16.45.23:777][328]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.45.23:848][329]MaterialEditorStats: Texture samplers: 9/16
+[2022.12.04-16.45.23:848][329]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.45.23:848][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.45.23:848][329]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.46.05:474][936]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-16.46.55:853][ 68]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.04-16.46.55:862][ 68]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.04-16.46.55:870][ 68]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.04-16.46.55:885][ 69]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.04-16.46.58:975][268]LogContentBrowser: Attempting asset rename: NewBlueprint -> GoombaAI
+[2022.12.04-16.46.58:983][268]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.04-16.47.06:232][686]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI
+[2022.12.04-16.47.06:232][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.47.06:858][686]LogViewport: Scene viewport resized to 407x238, mode Windowed.
+[2022.12.04-16.47.08:226][777]LogViewport: Scene viewport resized to 1323x981, mode Windowed.
+[2022.12.04-16.50.38:153][  0]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI
+[2022.12.04-16.50.38:153][  0]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GoombaAI29451366407D63646E6D3FB998BC2404.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Enemies/GoombaAssets/GoombaAI.uasset'
+[2022.12.04-16.50.38:194][  0]AssetCheck: New page: Asset Save: GoombaAI
+[2022.12.04-16.50.38:194][  0]LogContentValidation: Display: Validating Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI
+[2022.12.04-16.51.16:694][338]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Level1.Level1:PersistentLevel.Goomba_C_2.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2022.12.04-16.51.37:545][312]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2022.12.04-16.51.48:198][ 52]BlueprintLog: New page: Compile GoombaAI
+[2022.12.04-16.51.48:201][ 52]LogBlueprint: Error: [AssetLog] C:\Users\jdobyns\OneDrive - Colostate\Documents\Unreal Projects\AlbinR_DobynsJ\DobynsAlbin\Content\PawnsAssets\Enemies\GoombaAssets\GoombaAI.uasset: [Compiler] Graph named 'FollowPlayer' already exists in 'GoombaAI'. Another one cannot be generated from  FollowPlayer
+[2022.12.04-16.51.48:730][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.12.04-16.52.41:885][495]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI
+[2022.12.04-16.52.41:888][495]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GoombaAIFCA0F5F449D5C092FFEECAB6195D4FC1.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Enemies/GoombaAssets/GoombaAI.uasset'
+[2022.12.04-16.52.41:906][495]AssetCheck: New page: Asset Save: GoombaAI
+[2022.12.04-16.52.41:906][495]LogContentValidation: Display: Validating Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI
+[2022.12.04-16.52.42:535][538]BlueprintLog: New page: Compile GoombaAI
+[2022.12.04-16.52.42:694][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.12.04-16.52.43:568][579]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI
+[2022.12.04-16.52.43:569][579]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GoombaAIA84AD6FE4D9D83E0BF2534B5387B84F6.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Enemies/GoombaAssets/GoombaAI.uasset'
+[2022.12.04-16.52.43:589][579]AssetCheck: New page: Asset Save: GoombaAI
+[2022.12.04-16.52.43:589][579]LogContentValidation: Display: Validating Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI
+[2022.12.04-16.52.55:501][415]BlueprintLog: New page: Compile GoombaAI
+[2022.12.04-16.52.55:646][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.04-16.53.05:128][308]Cmd: DELETE
+[2022.12.04-16.53.05:128][308]Cmd: ACTOR DELETE
+[2022.12.04-16.53.16:880][525]Cmd: DELETE
+[2022.12.04-16.53.16:880][525]Cmd: ACTOR DELETE
+[2022.12.04-16.53.21:536][992]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI_C
+[2022.12.04-16.53.21:536][992]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI_C
+[2022.12.04-16.53.21:542][992]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI as actor: GoombaAI_C /Game/Maps/Level1.Level1:PersistentLevel.GoombaAI_C_0
+[2022.12.04-16.53.21:548][992]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI as actor: GoombaAI_C /Game/Maps/Level1.Level1:PersistentLevel.GoombaAI_C_0
+[2022.12.04-16.53.21:899][ 16]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI_C
+[2022.12.04-16.53.21:899][ 16]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI_C
+[2022.12.04-16.53.21:907][ 16]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI as actor: GoombaAI_C /Game/Maps/Level1.Level1:PersistentLevel.GoombaAI_C_1
+[2022.12.04-16.53.21:915][ 16]LogActorFactory: Actor Factory spawned Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI as actor: GoombaAI_C /Game/Maps/Level1.Level1:PersistentLevel.GoombaAI_C_1
+[2022.12.04-16.53.22:042][ 16]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-16.53.25:133][325]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-16.53.25:151][325]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.04-16.53.25:152][325]LogPlayLevel: [PlayLevel] Compiling Goomba before play...
+[2022.12.04-16.53.25:359][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.04-16.53.25:363][325]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2022.12.04-16.53.25:363][325]PIE: New page: PIE session: Level1 (Dec 4, 2022, 2:53:25 AM)
+[2022.12.04-16.53.25:363][325]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.53.25:381][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018426s)
+[2022.12.04-16.53.25:381][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.018538s)
+[2022.12.04-16.53.25:381][325]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.53.25:381][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.53.25:382][325]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.53.25:382][325]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2022.12.04-16.53.25:478][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.12.04-16.53.25:480][325]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.12.04-16.53.25:480][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-16.53.25:480][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-16.53.25:480][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-16.53.25:480][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-16.53.25:480][325]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-16.53.25:480][325]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-16.53.25:480][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-16.53.25:480][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-16.53.25:481][325]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-16.53.25:481][325]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-16.53.25:481][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-16.53.25:483][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-16.53.25:536][325]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-16.53.25:536][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-16.53.25:536][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-16.53.25:536][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-16.53.25:538][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.12.04-16.53.25:538][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.12.04-16.53.25:540][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.12.04-16.53.25:540][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.12.04-16.53.25:540][325]LogInit: FAudioDevice initialized.
+[2022.12.04-16.53.25:540][325]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level1'.
+[2022.12.04-16.53.25:560][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.53.25:565][325]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.53.25
+[2022.12.04-16.53.25:566][325]LogWorld: Bringing up level for play took: 0.005638
+[2022.12.04-16.53.25:568][325]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2022.12.04-16.53.25:571][325]PIE: Server logged in
+[2022.12.04-16.53.25:571][325]PIE: Play in editor total start time 0.427 seconds.
+[2022.12.04-16.53.25:586][325]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-16.53.25:652][326]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'GoombaAI_C_1', movement 'Walking'
+[2022.12.04-16.53.57:432][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.53.57:433][ 40]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.53.57:433][ 40]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.53.57:434][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.53.57:462][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-16.53.57:471][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.53.57:566][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.53.57:568][ 40]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-16.53.57:569][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.12.04-16.53.57:571][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.12.04-16.53.57:584][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.53.57:592][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.12.04-16.53.57:688][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.12.04-16.53.57:748][ 41]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-16.54.05:059][539]LogViewport: Scene viewport resized to 1323x979, mode Windowed.
+[2022.12.04-16.54.22:205][431]BlueprintLog: New page: Compile GoombaAI
+[2022.12.04-16.54.22:515][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.12.04-16.54.22:628][431]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-16.54.22:754][432]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-16.54.23:577][483]LogSavePackage: Moving output files for package: /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI
+[2022.12.04-16.54.23:579][483]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GoombaAI432234B349DBD0BE42E68696636B8478.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/Enemies/GoombaAssets/GoombaAI.uasset'
+[2022.12.04-16.54.23:599][483]AssetCheck: New page: Asset Save: GoombaAI
+[2022.12.04-16.54.23:599][483]LogContentValidation: Display: Validating Blueprint /Game/PawnsAssets/Enemies/GoombaAssets/GoombaAI.GoombaAI
+[2022.12.04-16.54.45:753][893]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.54.49:400][277]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.54.50:716][343]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.54.50:782][349]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.54.52:903][469]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.54.55:054][605]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.54.57:246][819]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.55.00:046][115]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level1.
+[2022.12.04-16.55.02:610][388]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-16.55.02:623][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-16.55.02:623][388]PIE: New page: PIE session: Level1 (Dec 4, 2022, 2:55:02 AM)
+[2022.12.04-16.55.02:623][388]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.55.02:645][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021682s)
+[2022.12.04-16.55.02:645][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.021784s)
+[2022.12.04-16.55.02:645][388]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.55.02:645][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.55.02:646][388]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.55.02:646][388]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2022.12.04-16.55.02:744][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.12.04-16.55.02:747][388]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.12.04-16.55.02:747][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-16.55.02:747][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-16.55.02:748][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-16.55.02:748][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-16.55.02:748][388]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-16.55.02:748][388]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-16.55.02:748][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-16.55.02:748][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-16.55.02:748][388]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-16.55.02:748][388]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-16.55.02:748][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-16.55.02:751][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-16.55.02:802][388]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-16.55.02:802][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-16.55.02:802][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-16.55.02:803][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-16.55.02:804][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.12.04-16.55.02:804][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.12.04-16.55.02:805][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.12.04-16.55.02:805][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.12.04-16.55.02:805][388]LogInit: FAudioDevice initialized.
+[2022.12.04-16.55.02:806][388]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2022.12.04-16.55.02:823][388]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.55.02:828][388]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.55.02
+[2022.12.04-16.55.02:829][388]LogWorld: Bringing up level for play took: 0.005439
+[2022.12.04-16.55.02:831][388]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2022.12.04-16.55.02:833][388]PIE: Server logged in
+[2022.12.04-16.55.02:834][388]PIE: Play in editor total start time 0.212 seconds.
+[2022.12.04-16.55.02:855][388]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-16.55.19:683][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.55.19:683][346]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.55.19:683][346]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.55.19:684][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.55.19:710][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-16.55.19:719][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.55.19:809][346]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.55.19:810][346]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-16.55.19:810][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.12.04-16.55.19:812][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.12.04-16.55.19:827][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.55.19:832][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.04-16.55.19:893][347]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.12.04-16.55.22:469][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.12.04-16.55.22:585][599]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2022.12.04-16.55.22:586][599]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level190209B5143011E5542D0EBBC43C124D8.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Maps/Level1.umap'
+[2022.12.04-16.55.22:608][599]LogFileHelpers: No new changes to save!
+[2022.12.04-16.55.22:632][599]AssetCheck: New page: Asset Save: Level1
+[2022.12.04-16.55.22:632][599]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
