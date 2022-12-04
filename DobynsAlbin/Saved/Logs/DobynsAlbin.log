@@ -3037,3 +3037,233 @@ An asset already exists at the import location: /Game/PawnsAssets/Coin
 [2022.12.04-00.02.22:574][620]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.04-00.02.22:574][620]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
 [2022.12.04-00.02.22:574][620]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level2_BuiltData.Level2_BuiltData
+[2022.12.04-00.06.58:668][662]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-00.06.58:684][662]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.BP_GrandStar:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.BP_GrandStar_C' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.BP_GrandStar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.BP_GrandStar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.BP_GrandStar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.SKEL_BP_GrandStar_C:UserConstructionScript' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.SKEL_BP_GrandStar_C:BndEvt__BP_GrandStar_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.SKEL_BP_GrandStar_C:ReceiveTick' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.SKEL_BP_GrandStar_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.SKEL_BP_GrandStar_C:ReceiveBeginPlay' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:708][104]LogMetaData: Removing '/Game/PawnsAssets/GrandStar/BP_GrandStar.SKEL_BP_GrandStar_C' ref from Metadata '/Game/PawnsAssets/BP_GrandStar.PackageMetaData'
+[2022.12.04-00.07.05:841][104]LogSavePackage: Moving output files for package: /Game/PawnsAssets/GrandStar/BP_GrandStar
+[2022.12.04-00.07.05:842][104]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/BP_GrandStar4C8FCC024E1292C8A19B2CBDCD90B57B.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/GrandStar/BP_GrandStar.uasset'
+[2022.12.04-00.07.05:848][104]LogSavePackage: Moving output files for package: /Game/PawnsAssets/BP_GrandStar
+[2022.12.04-00.07.05:851][104]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/BP_GrandStarDBB5724A4894C2DBB62343B8094CA654.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/BP_GrandStar.uasset'
+[2022.12.04-00.07.05:923][104]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.04-00.07.05:923][104]LogContentValidation: Display: Validating Blueprint /Game/PawnsAssets/GrandStar/BP_GrandStar.BP_GrandStar
+[2022.12.04-00.07.05:924][104]LogContentValidation: Display: Validating ObjectRedirector /Game/PawnsAssets/BP_GrandStar.BP_GrandStar
+[2022.12.04-00.07.05:924][104]LogContentValidation: Display: Validating ObjectRedirector /Game/PawnsAssets/BP_GrandStar.Default__BP_GrandStar_C
+[2022.12.04-00.07.05:924][104]LogContentValidation: Display: Validating ObjectRedirector /Game/PawnsAssets/BP_GrandStar.BP_GrandStar_C
+[2022.12.04-00.07.09:623][351]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.04-00.07.09:645][351]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.04-00.07.09:665][352]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.04-00.07.13:831][576]LogContentBrowser: Attempting asset rename: NewFolder -> OneUp
+[2022.12.04-00.07.13:832][576]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.04-00.07.40:654][680]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/betamush.png)
+[2022.12.04-00.07.40:658][680]LogTexture: Display: Building textures: /Game/PawnsAssets/OneUp/betamush.betamush (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2022.12.04-00.07.40:658][680]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/lifeup.png)
+[2022.12.04-00.07.40:661][680]LogTexture: Display: Building textures: /Game/PawnsAssets/OneUp/lifeup.lifeup (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2022.12.04-00.07.40:661][680]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/Mushroom.obj)
+[2022.12.04-00.07.40:668][680]LogFbx: Loading FBX Scene from ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/Mushroom.obj
+[2022.12.04-00.07.40:671][680]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.04-00.07.42:251][680]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.04-00.07.42:306][680]LogMaterial: Display: Missing cached shadermap for shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 4DEA39AC083DF6124EF5C0ACF5B3DB3F43851C83), compiling. 
+[2022.12.04-00.07.42:317][680]LogStaticMesh: Display: Building static mesh Mushroom...
+[2022.12.04-00.07.42:339][680]LogStaticMesh: Built static mesh [0.02s] /Game/PawnsAssets/OneUp/Mushroom.Mushroom
+[2022.12.04-00.07.42:369][680]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.04-00.07.42:462][680]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/oneup.png)
+[2022.12.04-00.07.42:551][681]LogTexture: Display: Building textures: /Game/PawnsAssets/OneUp/oneup.oneup (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2022.12.04-00.07.44:422][761]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-00.07.44:437][761]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-00.07.49:261][966]LogShaderCompilers: Display: ================================================
+[2022.12.04-00.07.49:261][966]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Total job queries 464, among them cache hits 249 (53.66%)
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Tracking 205 distinct input hashes that result in 96 distinct outputs (46.83%)
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Shaders Compiled: 74
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Jobs assigned 206, completed 205 (99.51%)
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Average time worker was idle: 173.16 s
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Time job spent in pending queue: average 1.61 s, longest 34.37 s
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Job execution time: average 7.96 s, max 34.49 s
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Job life time (pending + execution): average 9.58 s, max 41.77
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 321.01 s
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Jobs were issued in 189 batches (only local compilation was used), average 1.09 jobs/batch
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Average processing rate: 0.64 jobs/sec
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Effective parallelization: 3.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 11.62 sec, max 16.61 sec, min 7.81 sec)
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 11.11 sec, max 16.49 sec, min 7.65 sec)
+[2022.12.04-00.07.49:262][966]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 11.03 sec, max 16.50 sec, min 7.63 sec)
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   11 times, average 10.88 sec, max 16.73 sec, min 6.76 sec)
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 10.69 sec, max 15.62 sec, min 7.70 sec)
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 15.21% of total time (compiled   28 times, average 6.54 sec, max 16.29 sec, min 3.81 sec)
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.49% of total time (compiled   24 times, average 5.77 sec, max 14.91 sec, min 1.10 sec)
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.93% of total time (compiled   11 times, average 10.88 sec, max 16.73 sec, min 6.76 sec)
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.64% of total time (compiled   10 times, average 11.62 sec, max 16.61 sec, min 7.81 sec)
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 9.22% of total time (compiled   10 times, average 11.11 sec, max 16.49 sec, min 7.65 sec)
+[2022.12.04-00.07.49:263][966]LogShaderCompilers: Display: ================================================
+[2022.12.04-00.08.01:210][724]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PawnsAssets/OneUp/Mushroom.Mushroom
+[2022.12.04-00.08.01:245][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.08.01:886][724]LogViewport: Scene viewport resized to 1179x940, mode Windowed.
+[2022.12.04-00.08.18:998][371]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/PawnsAssets/OneUp/shroomMat.shroomMat
+[2022.12.04-00.08.19:002][371]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 632CD52A3CB84D0207A91C56A95B72DF154C9C88), compiling. 
+[2022.12.04-00.08.19:032][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.08.19:155][371]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: D3C2C311DA27BD144E323C3D8141D7A99D0DD725), compiling. 
+[2022.12.04-00.08.19:161][371]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 197CFF38A60750CC39B8F1EC40EA7B202C3EEB0A), compiling. 
+[2022.12.04-00.08.19:165][371]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E200575F832D46DAAD6C1582725BEB7647DAAAE0), compiling. 
+[2022.12.04-00.08.19:205][371]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-00.08.19:205][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.04-00.08.19:205][371]MaterialEditorStats: Shader Count: 0
+[2022.12.04-00.08.19:216][371]LogViewport: Scene viewport resized to 315x468, mode Windowed.
+[2022.12.04-00.08.19:317][373]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.04-00.08.19:317][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.04-00.08.19:317][373]MaterialEditorStats: Shader Count: 2
+[2022.12.04-00.08.34:068][992]LogViewport: Scene viewport resized to 319x484, mode Windowed.
+[2022.12.04-00.08.34:169][992]LogViewport: Scene viewport resized to 328x557, mode Windowed.
+[2022.12.04-00.08.34:286][992]LogViewport: Scene viewport resized to 328x565, mode Windowed.
+[2022.12.04-00.08.34:418][992]LogViewport: Scene viewport resized to 329x565, mode Windowed.
+[2022.12.04-00.08.34:684][992]LogViewport: Scene viewport resized to 330x564, mode Windowed.
+[2022.12.04-00.08.34:835][992]LogViewport: Scene viewport resized to 330x626, mode Windowed.
+[2022.12.04-00.08.44:070][316]LogViewport: Scene viewport resized to 1235x1256, mode Windowed.
+[2022.12.04-00.08.55:249][758]LogSavePackage: Moving output files for package: /Game/PawnsAssets/OneUp/Mushroom
+[2022.12.04-00.08.55:249][758]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/MushroomD342F31C436534641B78AFB21C09F852.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/OneUp/Mushroom.uasset'
+[2022.12.04-00.08.55:271][758]AssetCheck: New page: Asset Save: Mushroom
+[2022.12.04-00.08.55:271][758]LogContentValidation: Display: Validating StaticMesh /Game/PawnsAssets/OneUp/Mushroom.Mushroom
+[2022.12.04-00.08.55:963][793]LogEditorFactories: Performing atomic reimport of [C:/Users/jdobyns/OneDrive - Colostate/Desktop/Mushroom.obj]
+[2022.12.04-00.08.55:970][793]LogFbx: Loading FBX Scene from C:/Users/jdobyns/OneDrive - Colostate/Desktop/Mushroom.obj
+[2022.12.04-00.08.55:975][793]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.04-00.08.56:052][793]LogStaticMesh: Display: Building static mesh Mushroom...
+[2022.12.04-00.08.56:117][793]LogStaticMesh: Built static mesh [0.07s] /Game/PawnsAssets/OneUp/Mushroom.Mushroom
+[2022.12.04-00.08.56:145][793]LogEditorFactories: -- imported successfully
+[2022.12.04-00.08.56:146][793]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.04-00.09.24:377][354]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1BE6B7F4DAD247E42BBCD9CF8D50362C11C42BC9), compiling. 
+[2022.12.04-00.09.24:381][354]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-00.09.24:381][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.04-00.09.24:381][354]MaterialEditorStats: Shader Count: 0
+[2022.12.04-00.09.29:797][664]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 78EDB0D71AFC35168103F5E6098039F7299D7232), compiling. 
+[2022.12.04-00.09.29:800][664]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A4C9216E9D33EEF423365A8610B8063604427165), compiling. 
+[2022.12.04-00.09.29:804][664]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 57D47B01F760E22F2FBE021B3BB6EC28D4432FDF), compiling. 
+[2022.12.04-00.09.29:805][664]LogMaterial: Warning: [AssetLog] /Engine/Transient.shroomMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.04-00.09.29:806][664]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BE2E0A98FADD9F2775ECE98DF86C0ACC1360C490), compiling. 
+[2022.12.04-00.09.29:868][665]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.12.04-00.09.34:314][944]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 3B1A9DD6B4D8DD664A810EA34C3F472940037AC8), compiling. 
+[2022.12.04-00.09.34:317][944]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 209B1134D1E2B7D2212304734D4761386CB2779E), compiling. 
+[2022.12.04-00.09.34:321][944]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 7510CBD5A7071767766309DF49A1F28884A52609), compiling. 
+[2022.12.04-00.09.34:328][944]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-00.09.34:328][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-00.09.34:328][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-00.09.34:328][944]MaterialEditorStats: Shader Count: 0
+[2022.12.04-00.09.36:318][ 24]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.04-00.09.36:318][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-00.09.36:318][ 24]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-00.09.36:318][ 24]MaterialEditorStats: Shader Count: 1
+[2022.12.04-00.09.42:753][366]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 33FDB2EA213990CC6C29EF1157212CD2028001BB), compiling. 
+[2022.12.04-00.09.42:757][366]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D444528C2578C144C5CDF34DDFC4B0E881572920), compiling. 
+[2022.12.04-00.09.42:763][366]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: A127744EEA2D9AE4D5761D0FEC13D167D36214D6), compiling. 
+[2022.12.04-00.09.42:772][366]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-00.09.42:772][366]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-00.09.42:772][366]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-00.09.42:772][366]MaterialEditorStats: Shader Count: 0
+[2022.12.04-00.09.42:869][369]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.04-00.09.42:869][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-00.09.42:869][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-00.09.42:869][369]MaterialEditorStats: Shader Count: 2
+[2022.12.04-00.09.44:113][423]LogMaterialEditor: Saving and Compiling material shroomMat
+[2022.12.04-00.09.44:877][423]LogMaterial: Display: Missing cached shadermap for Preview:shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: 8C96F79A03359F3AD32CA29BC14E11C89CCD7FAD), compiling. 
+[2022.12.04-00.09.44:892][423]LogMaterial: Display: Missing cached shadermap for shroomMat in PCD3D_SM5, Default, SM5 (DDC key hash: CC96CEF4EEDE40471970F135E54100A47C7DC965), compiling. 
+[2022.12.04-00.09.44:962][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.12.04-00.09.46:153][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.12.04-00.09.48:280][423]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.12.04-00.09.56:221][423]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003022s (7.959561s overbudget)
+[2022.12.04-00.09.56:256][423]LogSavePackage: Moving output files for package: /Game/PawnsAssets/OneUp/shroomMat
+[2022.12.04-00.09.56:256][423]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/shroomMatFAA1D2374D4B959C265912B60B3245E6.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/PawnsAssets/OneUp/shroomMat.uasset'
+[2022.12.04-00.09.56:272][423]AssetCheck: New page: Asset Save: shroomMat
+[2022.12.04-00.09.56:272][423]LogContentValidation: Display: Validating Material /Game/PawnsAssets/OneUp/shroomMat.shroomMat
+[2022.12.04-00.09.56:273][423]MaterialEditorStats: Base pass shader: 829 instructions
+[2022.12.04-00.09.56:273][423]MaterialEditorStats: Base pass vertex shader: 337 instructions
+[2022.12.04-00.09.56:273][423]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.04-00.09.56:273][423]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-00.09.56:273][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-00.09.56:273][423]MaterialEditorStats: Shader Count: 14
+[2022.12.04-00.10.16:741][652]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.10.16:741][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.10.17:320][681]LogViewport: Scene viewport resized to 1179x940, mode Windowed.
+[2022.12.04-00.10.20:244][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HealthPack.HealthPack
+[2022.12.04-00.10.20:245][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.10.25:773][ 53]LogViewport: Scene viewport resized to 957x722, mode Windowed.
+[2022.12.04-00.11.28:556][123]BlueprintLog: New page: Compile HealthPack
+[2022.12.04-00.11.28:628][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.12.04-00.11.29:458][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthPack" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/HealthPack.uasset" SILENT=true
+[2022.12.04-00.11.29:469][150]LogSavePackage: Moving output files for package: /Game/HealthPack
+[2022.12.04-00.11.29:471][150]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/HealthPackFD8425A54EC99DDA551884972326FB90.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/HealthPack.uasset'
+[2022.12.04-00.11.29:500][150]AssetCheck: New page: Asset Save: HealthPack
+[2022.12.04-00.11.29:500][150]LogContentValidation: Display: Validating Blueprint /Game/HealthPack.HealthPack
+[2022.12.04-00.11.32:979][374]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-00.11.33:004][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-00.11.33:004][374]PIE: New page: PIE session: Level2 (Dec 3, 2022, 10:11:33 AM)
+[2022.12.04-00.11.33:005][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level2
+[2022.12.04-00.11.33:019][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014829s)
+[2022.12.04-00.11.33:020][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2.Level2 to /Game/Maps/UEDPIE_0_Level2.Level2 (0.014973s)
+[2022.12.04-00.11.33:020][374]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-00.11.33:020][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-00.11.33:020][374]LogAIModule: Creating AISystem for world Level2
+[2022.12.04-00.11.33:021][374]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2022.12.04-00.11.33:058][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.12.04-00.11.33:063][374]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.12.04-00.11.33:063][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-00.11.33:063][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-00.11.33:063][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-00.11.33:063][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-00.11.33:063][374]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-00.11.33:063][374]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-00.11.33:063][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-00.11.33:063][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-00.11.33:064][374]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-00.11.33:064][374]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-00.11.33:064][374]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-00.11.33:068][374]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-00.11.33:127][374]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-00.11.33:128][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-00.11.33:128][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-00.11.33:128][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-00.11.33:129][374]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.12.04-00.11.33:129][374]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.12.04-00.11.33:131][374]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.12.04-00.11.33:132][374]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.12.04-00.11.33:132][374]LogInit: FAudioDevice initialized.
+[2022.12.04-00.11.33:132][374]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level2'.
+[2022.12.04-00.11.33:148][374]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-00.11.33:151][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.12.03-17.11.33
+[2022.12.04-00.11.33:152][374]LogWorld: Bringing up level for play took: 0.003736
+[2022.12.04-00.11.33:155][374]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2022.12.04-00.11.33:157][374]PIE: Server logged in
+[2022.12.04-00.11.33:158][374]PIE: Play in editor total start time 0.156 seconds.
+[2022.12.04-00.11.33:189][374]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-00.12.00:112][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.12.00:112][222]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level2
+[2022.12.04-00.12.00:113][222]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-00.12.00:113][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.12.00:130][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-00.12.00:135][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-00.12.00:169][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-00.12.00:169][222]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-00.12.00:169][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.12.04-00.12.00:171][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.12.04-00.12.00:181][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-00.12.00:184][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.12.04-00.12.00:231][223]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.12.04-00.12.01:628][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.04-00.12.01:715][345]LogSavePackage: Moving output files for package: /Game/Maps/Level2
+[2022.12.04-00.12.01:717][345]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level2AE501A0A411EA9727C37FE8804E2A407.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Maps/Level2.umap'
+[2022.12.04-00.12.01:736][345]LogFileHelpers: No new changes to save!
+[2022.12.04-00.12.01:774][345]AssetCheck: New page: Asset Save: Level2
+[2022.12.04-00.12.01:774][345]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
