@@ -1627,3 +1627,693 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.04-15.57.19:984][531]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2022.12.04-15.57.20:017][531]LogViewport: Scene viewport resized to 643x398, mode Windowed.
 [2022.12.04-15.57.20:052][531]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-15.58.35:548][763]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lava.Lava
+[2022.12.04-15.58.35:549][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-15.58.38:876][952]LogViewport: Scene viewport resized to 1323x979, mode Windowed.
+[2022.12.04-16.01.41:520][633]LogSlate: Window 'Save Asset As' being destroyed
+[2022.12.04-16.01.46:789][633]LogSlate: Window 'Message' being destroyed
+[2022.12.04-16.01.46:796][633]Message dialog closed, result: No, title: Message, text: An object [Lava] of class [Blueprint] already exists in file [/Game/Lava].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2022.12.04-16.01.50:637][743]LogSlate: Window 'Save Asset As' being destroyed
+[2022.12.04-16.01.52:476][837]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GameLava.GameLava
+[2022.12.04-16.01.52:479][837]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 86C990B4DCA78BC5278410982EACF8B5626F8F89), compiling. 
+[2022.12.04-16.01.52:553][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.01.52:590][837]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.12.04-16.01.52:670][837]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 3B3E46E622EFF1801BC932A378B088CE0EC480FD), compiling. 
+[2022.12.04-16.01.52:676][837]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 2A8E4F30C1D01EA8DDBC215B80C52442B11F6F65), compiling. 
+[2022.12.04-16.01.52:714][837]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.01.52:714][837]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.04-16.01.52:714][837]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.01.52:725][837]LogViewport: Scene viewport resized to 504x629, mode Windowed.
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Shaders Compiled: 10
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Job execution time: average 1.53 s, max 1.53 s
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Job life time (pending + execution): average 1.61 s, max 1.61
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.61 s
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Average processing rate: 0.62 jobs/sec
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Effective parallelization: 0.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2022.12.04-16.01.54:382][941]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.01.54:395][942]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.04-16.01.54:395][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.04-16.01.54:395][942]MaterialEditorStats: Shader Count: 1
+[2022.12.04-16.01.57:317][113]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.04-16.01.57:317][113]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.04-16.01.57:317][113]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.02.36:491][857]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/Vol_35_3_Ambient_Occlusion.tga)
+[2022.12.04-16.02.36:545][857]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/Vol_35_3_Ambient_Occlusion.Vol_35_3_Ambient_Occlusion (G8, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.12.04-16.02.36:545][857]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/Vol_35_3_Base_Color.tga)
+[2022.12.04-16.02.36:665][857]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/Vol_35_3_Base_Color.Vol_35_3_Base_Color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.04-16.02.36:665][857]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/Vol_35_3_Emissive.tga)
+[2022.12.04-16.02.36:781][857]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/Vol_35_3_Height.tga)
+[2022.12.04-16.02.36:871][857]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/Vol_35_3_Emissive.Vol_35_3_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.04-16.02.36:871][857]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/Vol_35_3_Height.Vol_35_3_Height (G8, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.12.04-16.02.36:871][857]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/Vol_35_3_Normal.tga)
+[2022.12.04-16.02.37:030][857]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/Vol_35_3_Normal.Vol_35_3_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.04-16.02.37:066][857]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jdobyns/OneDrive - Colostate/Desktop/Vol_35_3_Roughness.tga)
+[2022.12.04-16.02.37:128][857]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/Vol_35_3_Roughness.Vol_35_3_Roughness (G8, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.12.04-16.02.46:437][457]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: B7F8E629DD6EAFBB8533FC19F27AAC597442C99E), compiling. 
+[2022.12.04-16.02.46:441][457]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B05687CCA22B0B3B7066562F1475F20B76B6960), compiling. 
+[2022.12.04-16.02.46:444][457]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A799F45FE7EF25AFB61F16CEFD933973275E8072), compiling. 
+[2022.12.04-16.02.46:448][457]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.02.46:448][457]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.04-16.02.46:448][457]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.02.46:521][459]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.04-16.02.46:521][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.12.04-16.02.46:521][459]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.02.49:900][675]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: BB32481B868030869E30CA2475D2445E29142914), compiling. 
+[2022.12.04-16.02.49:904][675]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3435227650314274AFD2CE82A843CE8035813236), compiling. 
+[2022.12.04-16.02.49:909][675]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.02.49:909][675]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-16.02.49:909][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.02.49:909][675]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.02.51:545][768]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.04-16.02.51:545][768]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-16.02.51:545][768]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.02.51:545][768]MaterialEditorStats: Shader Count: 1
+[2022.12.04-16.02.54:164][898]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.04-16.02.54:164][898]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-16.02.54:164][898]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.02.54:164][898]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.02.58:729][160]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 49294DDB94F74930C8F2D31BF03505CF409C3DE8), compiling. 
+[2022.12.04-16.02.58:733][160]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 75DD10CD5C1D2957B6D5D2287307B340D47AF784), compiling. 
+[2022.12.04-16.02.58:735][160]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 584F0DF894A7214D35C8174BF0F1D91BBC09E709), compiling. 
+[2022.12.04-16.02.58:738][160]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 026AE535A938DDC4764683E94F90CDF75FCD7B31), compiling. 
+[2022.12.04-16.02.58:744][160]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.02.58:744][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-16.02.58:744][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.02.58:744][160]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.02.58:824][162]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.04-16.02.58:824][162]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.12.04-16.02.58:824][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.02.58:824][162]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.03.02:995][430]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 30FC19C6B7A4DD345392D71CE955137C2C709627), compiling. 
+[2022.12.04-16.03.02:999][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F1607CCE04BB7572F68735F3AE38D350EBF148C), compiling. 
+[2022.12.04-16.03.03:005][430]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.03.03:005][430]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.04-16.03.03:005][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.03:005][430]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.03.04:710][521]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.04-16.03.04:710][521]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.04-16.03.04:710][521]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.04:710][521]MaterialEditorStats: Shader Count: 1
+[2022.12.04-16.03.07:326][640]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.04-16.03.07:326][640]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.04-16.03.07:326][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.07:326][640]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.03.09:350][749]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: F107D7053B4605AE6764D4707B0CEA24E89D2DF1), compiling. 
+[2022.12.04-16.03.09:354][749]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E3DCEF860E913B9F8C21383F831C8A7EE1919933), compiling. 
+[2022.12.04-16.03.09:356][749]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 60D6C247F3E8BE3490BD3628EFCA9174625BC7CA), compiling. 
+[2022.12.04-16.03.09:359][749]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 98AEC553AFF91FFC4DD76ED598E83753FDBE208D), compiling. 
+[2022.12.04-16.03.09:361][749]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 36A2B40DEA7F3EF97B260C3EBA8216A7353BFB60), compiling. 
+[2022.12.04-16.03.09:367][749]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.03.09:367][749]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.04-16.03.09:368][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.09:368][749]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.03.09:440][751]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.04-16.03.09:440][751]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.04-16.03.09:441][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.09:441][751]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.03.11:797][876]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: DDE78735BC20929EF0FEC9AF14A998DE72582E22), compiling. 
+[2022.12.04-16.03.11:801][876]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E55E98783185E2EDC409057B5AF04DA61D0C7BF), compiling. 
+[2022.12.04-16.03.11:807][876]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.03.11:807][876]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.04-16.03.11:808][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.11:808][876]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.03.13:515][965]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.04-16.03.13:515][965]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.04-16.03.13:515][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.13:515][965]MaterialEditorStats: Shader Count: 1
+[2022.12.04-16.03.16:642][141]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.04-16.03.16:642][141]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.04-16.03.16:642][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.16:642][141]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.03.23:125][530]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 627C2FA69D179A0A61135A7BEE41FBD1329C8B83), compiling. 
+[2022.12.04-16.03.23:129][530]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C38F7098221EA004C80F57502DFF3D9039DE628), compiling. 
+[2022.12.04-16.03.23:132][530]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B00036D7B54670B97827D5064BF36B462CD6B97), compiling. 
+[2022.12.04-16.03.23:135][530]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A113B99D9650E19E3E8065224FE6419E4439E78), compiling. 
+[2022.12.04-16.03.23:137][530]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DC18E4F442C318823428C35202F897CC81463F5), compiling. 
+[2022.12.04-16.03.23:140][530]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 69350934A629F695662D5B0725057042BEBEABD4), compiling. 
+[2022.12.04-16.03.23:145][530]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.03.23:145][530]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.04-16.03.23:145][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.23:145][530]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.03.23:228][532]MaterialEditorStats: Texture samplers: 7/16
+[2022.12.04-16.03.23:228][532]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.04-16.03.23:228][532]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.23:228][532]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.03.26:967][756]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: F202BF648106C67B8797E2AC1D2208258F4726FD), compiling. 
+[2022.12.04-16.03.26:970][756]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8996BC11AF1A23ED9DF6BCCA7FE478207361F580), compiling. 
+[2022.12.04-16.03.26:975][756]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.03.26:975][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.12.04-16.03.26:975][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.26:975][756]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.03.28:656][842]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.04-16.03.28:656][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.12.04-16.03.28:656][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.28:656][842]MaterialEditorStats: Shader Count: 1
+[2022.12.04-16.03.31:377][958]MaterialEditorStats: Texture samplers: 8/16
+[2022.12.04-16.03.31:377][958]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.12.04-16.03.31:377][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.31:377][958]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.03.31:582][960]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 564A0BC9F0A60C4FB02DF66273B8CBCB38381C5A), compiling. 
+[2022.12.04-16.03.31:586][960]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 1778BD172F24B0F748C14D40057CF74062FB9FB9), compiling. 
+[2022.12.04-16.03.31:589][960]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E4E9468A4AE0EEBC5D754562D1B55839E51D8EF0), compiling. 
+[2022.12.04-16.03.31:592][960]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 92DD5B5DAF56D4BBC0CF832B48CBEBCA78792C27), compiling. 
+[2022.12.04-16.03.31:594][960]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: ECFD5A6FD9D50C4BD29FBDA64ED93F3AFC6DF38D), compiling. 
+[2022.12.04-16.03.31:597][960]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4858633E4DF1BF4164AA7041B76FE89242462A02), compiling. 
+[2022.12.04-16.03.31:600][960]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A5AD7EB98614347B3F88615BBDACC08D946BA3C), compiling. 
+[2022.12.04-16.03.31:606][960]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.03.31:606][960]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.12.04-16.03.31:606][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.31:606][960]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.03.31:703][962]MaterialEditorStats: Texture samplers: 8/16
+[2022.12.04-16.03.31:703][962]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.12.04-16.03.31:703][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.31:703][962]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.03.34:051][ 90]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 6CAD9BD831CE4147742FCFECB3D5789CC6521E90), compiling. 
+[2022.12.04-16.03.34:054][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 077B4D72285B5E053AD5062B7317678EA7E3C93D), compiling. 
+[2022.12.04-16.03.34:059][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.03.34:060][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.03.34:060][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.34:060][ 90]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.03.35:768][175]MaterialEditorStats: Texture samplers: 2/16
+[2022.12.04-16.03.35:768][175]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.03.35:768][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.35:768][175]MaterialEditorStats: Shader Count: 1
+[2022.12.04-16.03.38:908][356]MaterialEditorStats: Texture samplers: 9/16
+[2022.12.04-16.03.38:908][356]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.03.38:908][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.38:908][356]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.03.44:040][653]LogMaterialEditor: Saving and Compiling material GameLava
+[2022.12.04-16.03.44:795][653]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: 131D5B040C35CD5CF46C03F886D6665A741E0EAA), compiling. 
+[2022.12.04-16.03.44:811][653]LogMaterial: Display: Missing cached shadermap for GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: E693459185AA11D6C62AE9D1572179E76C1E616B), compiling. 
+[2022.12.04-16.03.44:943][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.12.04-16.03.47:046][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.12.04-16.03.52:005][653]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.12.04-16.03.52:005][653]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049875s
+[2022.12.04-16.03.56:366][653]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005017s (4.406365s overbudget)
+[2022.12.04-16.03.56:404][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLava" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GameLava.uasset" SILENT=true
+[2022.12.04-16.03.56:408][653]LogSavePackage: Moving output files for package: /Game/GameLava
+[2022.12.04-16.03.56:408][653]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/GameLavaDE5A61354456098835C24CB3B4A923C7.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/GameLava.uasset'
+[2022.12.04-16.03.56:426][653]AssetCheck: New page: Asset Save: GameLava
+[2022.12.04-16.03.56:426][653]LogContentValidation: Display: Validating Material /Game/GameLava.GameLava
+[2022.12.04-16.03.56:431][653]MaterialEditorStats: Base pass shader: 842 instructions
+[2022.12.04-16.03.56:431][653]MaterialEditorStats: Base pass vertex shader: 337 instructions
+[2022.12.04-16.03.56:431][653]MaterialEditorStats: Texture samplers: 10/16
+[2022.12.04-16.03.56:431][653]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.03.56:431][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.03.56:431][653]MaterialEditorStats: Shader Count: 14
+[2022.12.04-16.03.59:207][778]BlueprintLog: New page: Compile Lava
+[2022.12.04-16.03.59:347][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.12.04-16.03.59:633][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.12.04-16.03.59:730][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto2
+[2022.12.04-16.03.59:730][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Level1_Auto23002C58342C359BB408902B925E8AE34.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2022.12.04-16.03.59:741][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.175
+[2022.12.04-16.03.59:741][779]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.175
+[2022.12.04-16.03.59:742][779]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Lava] ([2] browsable assets)...
+[2022.12.04-16.03.59:750][779]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lava.Lava]
+[2022.12.04-16.03.59:750][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lava]
+[2022.12.04-16.03.59:762][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lava_Auto2
+[2022.12.04-16.03.59:762][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Lava_Auto29EE0052C4DF248EA39053780FB2A4D0C.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/Lava_Auto2.uasset'
+[2022.12.04-16.03.59:763][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/29103] ([1] browsable assets)...
+[2022.12.04-16.03.59:766][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/29103.29103]
+[2022.12.04-16.03.59:766][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/29103]
+[2022.12.04-16.03.59:769][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/29103_Auto2
+[2022.12.04-16.03.59:769][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/29103_Auto269C955E847ABBD9EDF93C9BC2414C81B.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/UI/29103_Auto2.uasset'
+[2022.12.04-16.03.59:771][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/Vol_35_3_Ambient_Occlusion] ([1] browsable assets)...
+[2022.12.04-16.03.59:773][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/Vol_35_3_Ambient_Occlusion.Vol_35_3_Ambient_Occlusion]
+[2022.12.04-16.03.59:773][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/Vol_35_3_Ambient_Occlusion]
+[2022.12.04-16.03.59:778][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Ambient_Occlusion_Auto2
+[2022.12.04-16.03.59:778][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Vol_35_3_Ambient_Occlusion_Auto2ADFFE61E4410F1E52FD27E9B3F9F0641.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Ambient_Occlusion_Auto2.uasset'
+[2022.12.04-16.03.59:779][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/Vol_35_3_Base_Color] ([1] browsable assets)...
+[2022.12.04-16.03.59:781][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/Vol_35_3_Base_Color.Vol_35_3_Base_Color]
+[2022.12.04-16.03.59:781][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/Vol_35_3_Base_Color]
+[2022.12.04-16.03.59:794][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Base_Color_Auto2
+[2022.12.04-16.03.59:794][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Vol_35_3_Base_Color_Auto22F5B2B154E0C18E8B7D613BEEB1D488B.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Base_Color_Auto2.uasset'
+[2022.12.04-16.03.59:795][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/Vol_35_3_Emissive] ([1] browsable assets)...
+[2022.12.04-16.03.59:797][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/Vol_35_3_Emissive.Vol_35_3_Emissive]
+[2022.12.04-16.03.59:797][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/Vol_35_3_Emissive]
+[2022.12.04-16.03.59:809][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Emissive_Auto2
+[2022.12.04-16.03.59:809][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Vol_35_3_Emissive_Auto2AD63BD264165013D60435AA64A45E383.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Emissive_Auto2.uasset'
+[2022.12.04-16.03.59:811][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/Vol_35_3_Height] ([1] browsable assets)...
+[2022.12.04-16.03.59:813][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/Vol_35_3_Height.Vol_35_3_Height]
+[2022.12.04-16.03.59:813][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/Vol_35_3_Height]
+[2022.12.04-16.03.59:818][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Height_Auto2
+[2022.12.04-16.03.59:818][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Vol_35_3_Height_Auto2BDA187C947BEFDA0BCD1CBBC0818C8B0.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Height_Auto2.uasset'
+[2022.12.04-16.03.59:819][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/Vol_35_3_Normal] ([1] browsable assets)...
+[2022.12.04-16.03.59:821][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/Vol_35_3_Normal.Vol_35_3_Normal]
+[2022.12.04-16.03.59:821][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/Vol_35_3_Normal]
+[2022.12.04-16.03.59:834][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Normal_Auto2
+[2022.12.04-16.03.59:834][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Vol_35_3_Normal_Auto2AC80374642DF000521CE5D9CA34D05EC.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Normal_Auto2.uasset'
+[2022.12.04-16.03.59:835][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/Vol_35_3_Roughness] ([1] browsable assets)...
+[2022.12.04-16.03.59:837][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/Vol_35_3_Roughness.Vol_35_3_Roughness]
+[2022.12.04-16.03.59:837][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/Vol_35_3_Roughness]
+[2022.12.04-16.03.59:843][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Roughness_Auto2
+[2022.12.04-16.03.59:843][779]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Vol_35_3_Roughness_Auto2566B341C4A09837C7CC6F78D1A3EF48F.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/Autosaves/Game/LevelPrototyping/Textures/Vol_35_3_Roughness_Auto2.uasset'
+[2022.12.04-16.03.59:844][779]LogFileHelpers: Auto-saving content packages took 0.102
+[2022.12.04-16.04.12:663][818]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM5, Default, SM5 (DDC key hash: F892C4073061E63803BABB085399E992005F6097), compiling. 
+[2022.12.04-16.04.12:673][818]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: D5EEC6AB77D2F1189B4C3332188F849D4BCC1A05), compiling. 
+[2022.12.04-16.04.12:682][818]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_17 in PCD3D_SM5, Default, SM5 (DDC key hash: 2637BED9FAC2BF80057B69EFEFB92C3BAD7CFA9B), compiling. 
+[2022.12.04-16.04.12:691][818]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_18 in PCD3D_SM5, Default, SM5 (DDC key hash: 03B75C40FDAC12DB60D84CF5A1A18D19E2459FD7), compiling. 
+[2022.12.04-16.04.12:700][818]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: F5B639D6588730FD324B58691CA911733CF69F53), compiling. 
+[2022.12.04-16.04.12:709][818]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 61B4506F9EFF414DF5193108DF7A165FF966D948), compiling. 
+[2022.12.04-16.04.12:718][818]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_21 in PCD3D_SM5, Default, SM5 (DDC key hash: 13D442BD7436B77CDA1356D5CEE614C64416199F), compiling. 
+[2022.12.04-16.04.12:800][818]LogViewport: Scene viewport resized to 1564x1262, mode Windowed.
+[2022.12.04-16.06.33:384][130]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E495812B496BC9F0A542CCA3E0A444A4C572E246), compiling. 
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Total job queries 183, among them cache hits 101 (55.19%)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Tracking 71 distinct input hashes that result in 35 distinct outputs (49.30%)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Shaders Compiled: 42
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Jobs assigned 72, completed 71 (98.61%)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Average time worker was idle: 9.10 s
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Time job spent in pending queue: average 3.62 s, longest 16.77 s
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Job execution time: average 3.92 s, max 11.27 s
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Job life time (pending + execution): average 7.59 s, max 22.56
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.68 s
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Average processing rate: 1.02 jobs/sec
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Effective parallelization: 3.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 8.81 sec, max 8.81 sec, min 8.81 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 8.72 sec, max 8.72 sec, min 8.72 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 8.64 sec, max 8.64 sec, min 8.64 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 8.63 sec, max 8.63 sec, min 8.63 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 8.56 sec, max 8.56 sec, min 8.56 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 40.81% of total time (compiled   12 times, average 7.16 sec, max 11.02 sec, min 4.07 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.81% of total time (compiled   17 times, average 1.96 sec, max 3.28 sec, min 1.19 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.21% of total time (compiled    7 times, average 2.17 sec, max 8.37 sec, min 0.95 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 6.20% of total time (compiled    6 times, average 2.18 sec, max 2.35 sec, min 1.97 sec)
+[2022.12.04-16.06.34:709][270]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.18% of total time (compiled    1 times, average 8.81 sec, max 8.81 sec, min 8.81 sec)
+[2022.12.04-16.06.34:710][270]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.07.55:091][653]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fantastic_Village_Pack/materials/MI_landscape.MI_landscape
+[2022.12.04-16.07.55:094][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.07.55:490][653]LogViewport: Scene viewport resized to 1707x1262, mode Windowed.
+[2022.12.04-16.09.27:676][878]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.12.04-16.09.53:545][647]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-16.09.53:556][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-16.09.53:556][647]PIE: New page: PIE session: Level1 (Dec 4, 2022, 2:09:53 AM)
+[2022.12.04-16.09.53:587][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.09.53:606][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019239s)
+[2022.12.04-16.09.53:606][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.019401s)
+[2022.12.04-16.09.53:606][647]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.09.53:606][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.09.53:607][647]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.09.53:607][647]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2022.12.04-16.09.53:686][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.12.04-16.09.53:691][647]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.04-16.09.53:691][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-16.09.53:691][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-16.09.53:691][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-16.09.53:691][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-16.09.53:691][647]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-16.09.53:691][647]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-16.09.53:691][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-16.09.53:691][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-16.09.53:691][647]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-16.09.53:691][647]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-16.09.53:691][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-16.09.53:694][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-16.09.53:745][647]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-16.09.53:745][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-16.09.53:745][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-16.09.53:745][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-16.09.53:746][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.04-16.09.53:746][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.04-16.09.53:748][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.04-16.09.53:748][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.04-16.09.53:748][647]LogInit: FAudioDevice initialized.
+[2022.12.04-16.09.53:748][647]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2022.12.04-16.09.53:776][647]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.09.53:782][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.09.53
+[2022.12.04-16.09.53:782][647]LogWorld: Bringing up level for play took: 0.005718
+[2022.12.04-16.09.53:784][647]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2022.12.04-16.09.53:787][647]PIE: Server logged in
+[2022.12.04-16.09.53:788][647]PIE: Play in editor total start time 0.233 seconds.
+[2022.12.04-16.09.53:802][647]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-16.10.06:698][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.10.06:698][157]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.10.06:699][157]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.10.06:700][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.10.06:718][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-16.10.06:727][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.10.06:795][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.10.06:795][157]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-16.10.06:795][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.04-16.10.06:797][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.04-16.10.06:816][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.10.06:820][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.04-16.10.06:867][158]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.12.04-16.10.24:735][239]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane should be resaved to improve async compilation performance.
+[2022.12.04-16.10.34:871][767]BlueprintLog: New page: Compile Lava
+[2022.12.04-16.10.34:999][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.04-16.10.35:648][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lava" FILE="../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Lava.uasset" SILENT=true
+[2022.12.04-16.10.35:658][793]LogSavePackage: Moving output files for package: /Game/Lava
+[2022.12.04-16.10.35:660][793]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/LavaD6ACA23E4F3037951D88E7A64E290BEC.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/Lava.uasset'
+[2022.12.04-16.10.35:680][793]AssetCheck: New page: Asset Save: Lava
+[2022.12.04-16.10.35:680][793]LogContentValidation: Display: Validating Blueprint /Game/Lava.Lava
+[2022.12.04-16.10.42:872][509]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-16.10.42:885][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-16.10.42:885][509]PIE: New page: PIE session: Level1 (Dec 4, 2022, 2:10:42 AM)
+[2022.12.04-16.10.42:907][509]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.10.42:925][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018320s)
+[2022.12.04-16.10.42:925][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.018445s)
+[2022.12.04-16.10.42:925][509]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.10.42:926][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.10.42:926][509]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.10.42:926][509]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2022.12.04-16.10.42:998][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.12.04-16.10.43:001][509]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.12.04-16.10.43:002][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-16.10.43:002][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-16.10.43:002][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-16.10.43:002][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-16.10.43:002][509]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-16.10.43:002][509]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-16.10.43:002][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-16.10.43:002][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-16.10.43:002][509]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-16.10.43:002][509]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-16.10.43:002][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-16.10.43:005][509]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-16.10.43:056][509]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-16.10.43:057][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-16.10.43:057][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-16.10.43:057][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-16.10.43:059][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.12.04-16.10.43:059][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.12.04-16.10.43:060][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.12.04-16.10.43:060][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.12.04-16.10.43:060][509]LogInit: FAudioDevice initialized.
+[2022.12.04-16.10.43:061][509]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2022.12.04-16.10.43:074][509]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.10.43:079][509]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.10.43
+[2022.12.04-16.10.43:080][509]LogWorld: Bringing up level for play took: 0.005963
+[2022.12.04-16.10.43:082][509]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2022.12.04-16.10.43:085][509]PIE: Server logged in
+[2022.12.04-16.10.43:086][509]PIE: Play in editor total start time 0.203 seconds.
+[2022.12.04-16.10.43:108][509]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-16.11.06:297][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.11.06:297][278]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.11.06:297][278]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.11.06:298][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.11.06:318][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-16.11.06:328][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.11.06:406][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.11.06:406][278]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-16.11.06:406][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.12.04-16.11.06:408][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.12.04-16.11.06:420][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.11.06:425][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.12.04-16.11.06:475][279]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.12.04-16.11.23:756][ 26]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.12.04-16.11.23:757][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.11.23:768][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.11.24:356][ 26]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-16.11.24:356][ 26]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-16.11.43:225][428]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-16.11.43:225][428]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-16.11.53:378][348]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FinishLine.FinishLine
+[2022.12.04-16.11.53:378][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.13.21:262][912]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.12.04-16.13.21:404][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.12.04-16.13.22:303][952]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.12.04-16.13.22:305][952]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/LevelSelectMenuFC4618B2429AD240DDAC58A0606D2667.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/LevelSelectMenu.uasset'
+[2022.12.04-16.13.22:324][952]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.12.04-16.13.22:324][952]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.12.04-16.13.25:341][157]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-16.13.25:354][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-16.13.25:354][157]PIE: New page: PIE session: Level1 (Dec 4, 2022, 2:13:25 AM)
+[2022.12.04-16.13.25:385][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.13.25:405][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019790s)
+[2022.12.04-16.13.25:405][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.019921s)
+[2022.12.04-16.13.25:405][157]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.13.25:405][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.13.25:406][157]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.13.25:406][157]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2022.12.04-16.13.25:492][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.12.04-16.13.25:494][157]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.12.04-16.13.25:494][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-16.13.25:494][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-16.13.25:494][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-16.13.25:494][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-16.13.25:494][157]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-16.13.25:494][157]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-16.13.25:494][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-16.13.25:494][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-16.13.25:495][157]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-16.13.25:495][157]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-16.13.25:495][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-16.13.25:498][157]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-16.13.25:549][157]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-16.13.25:550][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-16.13.25:550][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-16.13.25:550][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-16.13.25:551][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.12.04-16.13.25:551][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.12.04-16.13.25:553][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.12.04-16.13.25:553][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.12.04-16.13.25:553][157]LogInit: FAudioDevice initialized.
+[2022.12.04-16.13.25:553][157]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2022.12.04-16.13.25:568][157]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.13.25:574][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.13.25
+[2022.12.04-16.13.25:574][157]LogWorld: Bringing up level for play took: 0.005687
+[2022.12.04-16.13.25:576][157]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.12.04-16.13.25:579][157]PIE: Server logged in
+[2022.12.04-16.13.25:580][157]PIE: Play in editor total start time 0.228 seconds.
+[2022.12.04-16.13.25:602][157]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-16.13.40:432][927]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.13.40:432][927]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-16.13.40:432][927]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.04-16.13.44:298][391]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-16.13.44:298][391]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.04-16.13.44:300][391]LogNet: Browse: /Game/Maps/Level2
+[2022.12.04-16.13.44:301][391]LogLoad: LoadMap: /Game/Maps/Level2
+[2022.12.04-16.13.44:301][391]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.13.44:302][391]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.13.44:302][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.13.44:404][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.13.44:410][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.12.04-16.13.44:439][391]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level2'.
+[2022.12.04-16.13.44:439][391]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.13.44:439][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.13.44:440][391]LogAIModule: Creating AISystem for world Level2
+[2022.12.04-16.13.44:440][391]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2022.12.04-16.13.44:440][391]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.13.44:455][391]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.12.04-09.13.44
+[2022.12.04-16.13.44:455][391]LogWorld: Bringing up level for play took: 0.015166
+[2022.12.04-16.13.44:456][391]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.04-16.13.44:457][391]LogLoad: Took 0.155989 seconds to LoadMap(/Game/Maps/Level2)
+[2022.12.04-16.13.46:117][588]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.13.46:117][588]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-16.13.46:117][588]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.04-16.13.46:118][588]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.13.48:076][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.13.48:076][818]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level2
+[2022.12.04-16.13.48:077][818]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.13.48:078][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.13.48:093][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-16.13.48:102][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.13.48:179][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.13.48:180][818]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-16.13.48:180][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.12.04-16.13.48:182][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.12.04-16.13.48:215][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.12.04-16.13.48:250][819]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.12.04-16.14.13:621][ 62]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.12.04-16.14.13:748][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.12.04-16.14.27:070][909]LogEditorTransaction: Undo Create Binding
+[2022.12.04-16.14.27:101][909]LogMaterial: Display: Missing cached shadermap for Preview:GameLava in PCD3D_SM5, Default, SM5 (DDC key hash: B4CD8BB6119900C0B290F801EB1CACF2E1FC2DA0), compiling. 
+[2022.12.04-16.14.27:273][909]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-16.14.27:273][909]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.14.27:273][909]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.14.27:273][909]MaterialEditorStats: Shader Count: 0
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Total job queries 185, among them cache hits 103 (55.68%)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 35 distinct outputs (48.61%)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Shaders Compiled: 42
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Jobs assigned 72, completed 72 (100.00%)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Average time worker was idle: 9.10 s
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Time job spent in pending queue: average 3.62 s, longest 16.77 s
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Job execution time: average 3.89 s, max 11.27 s
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Job life time (pending + execution): average 7.51 s, max 22.56
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.88 s
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Effective parallelization: 3.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 8.81 sec, max 8.81 sec, min 8.81 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 8.72 sec, max 8.72 sec, min 8.72 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 8.64 sec, max 8.64 sec, min 8.64 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 8.63 sec, max 8.63 sec, min 8.63 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 8.56 sec, max 8.56 sec, min 8.56 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 40.58% of total time (compiled   12 times, average 7.16 sec, max 11.02 sec, min 4.07 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.27% of total time (compiled   18 times, average 1.92 sec, max 3.28 sec, min 1.16 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.17% of total time (compiled    7 times, average 2.17 sec, max 8.37 sec, min 0.95 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 6.16% of total time (compiled    6 times, average 2.18 sec, max 2.35 sec, min 1.97 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.16% of total time (compiled    1 times, average 8.81 sec, max 8.81 sec, min 8.81 sec)
+[2022.12.04-16.14.27:449][911]LogShaderCompilers: Display: ================================================
+[2022.12.04-16.14.27:507][912]MaterialEditorStats: Texture samplers: 9/16
+[2022.12.04-16.14.27:507][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.12.04-16.14.27:507][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-16.14.27:507][912]MaterialEditorStats: Shader Count: 2
+[2022.12.04-16.14.29:640][ 44]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-16.14.29:640][ 44]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-16.14.33:595][251]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.12.04-16.14.33:596][251]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/LevelSelectMenu8BA5B5974F592CCDFAAEE0B05FEAF892.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/LevelSelectMenu.uasset'
+[2022.12.04-16.14.33:615][251]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.12.04-16.14.33:615][251]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.12.04-16.14.42:552][771]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.12.04-16.14.42:693][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.12.04-16.14.43:168][797]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.12.04-16.14.43:169][797]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/LevelSelectMenu3386C0024764D523530C2AA2EBD05FD3.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/LevelSelectMenu.uasset'
+[2022.12.04-16.14.43:189][797]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.12.04-16.14.43:189][797]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.12.04-16.15.12:674][828]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.12.04-16.15.12:679][828]LogBlueprint: Warning: [AssetLog] C:\Users\jdobyns\OneDrive - Colostate\Documents\Unreal Projects\AlbinR_DobynsJ\DobynsAlbin\Content\UI\LevelSelectMenu.uasset: [Compiler] Could not find a variable named "As Third Person Character" in 'LevelSelectMenu_C'.
+Make sure 'LevelSelectMenu_C' has been compiled for  Set As Third Person Character
+[2022.12.04-16.15.12:680][828]LogBlueprint: Error: [AssetLog] C:\Users\jdobyns\OneDrive - Colostate\Documents\Unreal Projects\AlbinR_DobynsJ\DobynsAlbin\Content\UI\LevelSelectMenu.uasset: [Compiler] The property associated with  As Third Person Character  could not be found in '/Game/UI/LevelSelectMenu.LevelSelectMenu_C'
+[2022.12.04-16.15.12:813][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.12.04-16.15.13:351][854]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.12.04-16.15.13:353][854]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/LevelSelectMenu3EF3515A484C437227769DBF0508D9E7.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/LevelSelectMenu.uasset'
+[2022.12.04-16.15.13:373][854]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.12.04-16.15.13:374][854]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.12.04-16.15.34:900][355]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.12.04-16.15.35:030][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.12.04-16.15.35:834][392]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.12.04-16.15.35:836][392]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/LevelSelectMenu7E305CEE4A3AF083D741A18B5A764F9C.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/LevelSelectMenu.uasset'
+[2022.12.04-16.15.35:854][392]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.12.04-16.15.35:854][392]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.12.04-16.15.37:079][465]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-16.15.37:079][465]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-16.15.42:888][743]BlueprintLog: New page: Compile LevelSelectMenu
+[2022.12.04-16.15.43:027][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.12.04-16.15.43:881][768]LogSavePackage: Moving output files for package: /Game/UI/LevelSelectMenu
+[2022.12.04-16.15.43:883][768]LogSavePackage: Moving '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Saved/LevelSelectMenuA3F9001D40E7273814A951A0918D4321.tmp' to '../../../../../../Users/jdobyns/OneDrive - Colostate/Documents/Unreal Projects/AlbinR_DobynsJ/DobynsAlbin/Content/UI/LevelSelectMenu.uasset'
+[2022.12.04-16.15.43:902][768]AssetCheck: New page: Asset Save: LevelSelectMenu
+[2022.12.04-16.15.43:902][768]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LevelSelectMenu.LevelSelectMenu
+[2022.12.04-16.15.46:254][931]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.04-16.15.46:269][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-16.15.46:269][931]PIE: New page: PIE session: Level1 (Dec 4, 2022, 2:15:46 AM)
+[2022.12.04-16.15.46:269][931]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.15.46:289][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020024s)
+[2022.12.04-16.15.46:290][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.020146s)
+[2022.12.04-16.15.46:290][931]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.15.46:290][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.15.46:290][931]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.15.46:291][931]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2022.12.04-16.15.46:384][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.12.04-16.15.46:387][931]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.12.04-16.15.46:387][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-16.15.46:387][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-16.15.46:387][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-16.15.46:387][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-16.15.46:387][931]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-16.15.46:387][931]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-16.15.46:388][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-16.15.46:388][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-16.15.46:388][931]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-16.15.46:388][931]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-16.15.46:388][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-16.15.46:391][931]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-16.15.46:449][931]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.04-16.15.46:449][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-16.15.46:449][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-16.15.46:450][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-16.15.46:450][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.12.04-16.15.46:450][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.12.04-16.15.46:453][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.12.04-16.15.46:453][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.12.04-16.15.46:453][931]LogInit: FAudioDevice initialized.
+[2022.12.04-16.15.46:453][931]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2022.12.04-16.15.46:466][931]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.15.46:472][931]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.15.46
+[2022.12.04-16.15.46:473][931]LogWorld: Bringing up level for play took: 0.006393
+[2022.12.04-16.15.46:476][931]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.12.04-16.15.46:478][931]PIE: Server logged in
+[2022.12.04-16.15.46:479][931]PIE: Play in editor total start time 0.212 seconds.
+[2022.12.04-16.15.46:504][931]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-16.16.02:871][872]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.16.02:871][872]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-16.16.02:871][872]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.04-16.16.02:872][872]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.16.04:854][110]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-16.16.04:854][110]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.04-16.16.04:856][110]LogNet: Browse: /Game/Maps/Level2
+[2022.12.04-16.16.04:856][110]LogLoad: LoadMap: /Game/Maps/Level2
+[2022.12.04-16.16.04:856][110]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.16.04:857][110]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.16.04:858][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.16.04:957][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.16.04:961][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.04-16.16.04:988][110]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level2'.
+[2022.12.04-16.16.04:988][110]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.16.04:988][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.16.04:988][110]LogAIModule: Creating AISystem for world Level2
+[2022.12.04-16.16.04:989][110]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2022.12.04-16.16.04:989][110]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.16.05:005][110]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.12.04-09.16.05
+[2022.12.04-16.16.05:005][110]LogWorld: Bringing up level for play took: 0.016614
+[2022.12.04-16.16.05:006][110]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.04-16.16.05:007][110]LogLoad: Took 0.151232 seconds to LoadMap(/Game/Maps/Level2)
+[2022.12.04-16.16.08:137][483]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.16.08:137][483]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-16.16.08:137][483]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.04-16.16.08:138][483]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.16.10:478][764]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-16.16.10:478][764]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.04-16.16.10:479][764]LogNet: Browse: /Game/Maps/Level1
+[2022.12.04-16.16.10:480][764]LogLoad: LoadMap: /Game/Maps/Level1
+[2022.12.04-16.16.10:480][764]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level2
+[2022.12.04-16.16.10:481][764]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.16.10:481][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.16.10:588][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.16.10:593][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.04-16.16.10:596][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.16.10:613][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016711s)
+[2022.12.04-16.16.10:613][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.016831s)
+[2022.12.04-16.16.10:613][764]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2022.12.04-16.16.10:613][764]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-16.16.10:613][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-16.16.10:613][764]LogAIModule: Creating AISystem for world Level1
+[2022.12.04-16.16.10:614][764]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2022.12.04-16.16.10:614][764]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-16.16.10:618][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.12.04-09.16.10
+[2022.12.04-16.16.10:618][764]LogWorld: Bringing up level for play took: 0.003936
+[2022.12.04-16.16.10:618][764]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.04-16.16.10:620][764]LogLoad: Took 0.140705 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level1)
+[2022.12.04-16.16.39:270][176]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.16.39:270][176]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-16.16.39:270][176]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.04-16.16.39:271][176]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.12.04-16.16.41:614][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.16.41:614][454]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2022.12.04-16.16.41:615][454]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-16.16.41:616][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.16.41:631][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-16.16.41:641][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-16.16.41:721][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-16.16.41:721][454]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-16.16.41:721][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.12.04-16.16.41:723][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.12.04-16.16.41:746][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-16.16.41:751][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.12.04-16.16.41:785][455]LogPlayLevel: Display: Destroying online subsystem :Context_35
